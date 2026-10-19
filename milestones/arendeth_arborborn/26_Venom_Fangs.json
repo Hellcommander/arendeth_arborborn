@@ -1,0 +1,16 @@
+{
+	"id": "arendeth_arborborn_venom_fangs",
+	"name": "Venom Fangs",
+	"requirements": {
+		"milestones": [],
+		"skill": 26
+	},
+	"rewards": [
+		{
+			"ability": "arendeth_arborborn_venom_fangs"
+		}
+	],
+	"skill_id": "arendeth_arborborn",
+	"steps": [],
+	"steps_type": 0
+}

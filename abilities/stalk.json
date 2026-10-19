@@ -1,0 +1,20 @@
+{
+	"id": "arendeth_arborborn_stalk",
+	"name": "Stalk",
+	"description": "Melt into the undergrowth and vanish from sight.",
+	"target": "self",
+	"range": 0,
+	"effects": {
+		"hide": 4
+	},
+	"animation": "34",
+	"cost": {
+		"health": 0,
+		"stamina": 0
+	},
+	"cast_time": 0.5,
+	"cooldown": 20.0,
+	"skill": "arendeth_arborborn",
+	"duration": 4.0,
+	"image": 54
+}

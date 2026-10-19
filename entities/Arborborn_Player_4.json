@@ -1,0 +1,201 @@
+{
+	"ability_user": [
+		"arendeth_arborborn_Shift_Bison",
+		"arendeth_arborborn_Shift_Crocodile",
+		"arendeth_arborborn_Shift_Giant_Toad",
+		"arendeth_arborborn_Shift_Dire_Wolf",
+		"arendeth_arborborn_Shift_Leopard",
+		"arendeth_arborborn_Shift_Lion",
+		"arendeth_arborborn_Shift_Elephant",
+		"arendeth_arborborn_Shift_Tiny_Dragon",
+		"arendeth_arborborn_Shift_Giant_Spider",
+		"arendeth_arborborn_Shift_Giant_Tortoise",
+		"arendeth_arborborn_Shift_Mush_Dragon",
+		"arendeth_arborborn_Shift_Living_Tree"
+	],
+	"armor": {
+		"acid": 0,
+		"death": 0,
+		"electricity": -2,
+		"fire": -8,
+		"frost": 0,
+		"holy": 0,
+		"parry": 0,
+		"physical": 8,
+		"poison": 10,
+		"thorns": 2
+	},
+	"artificial_intelligence": {
+		"allies": [
+			"5"
+		],
+		"allow_production": [],
+		"behaviors": [],
+		"enemies": []
+	},
+	"components": [
+		"ability_user",
+		"actor",
+		"armor",
+		"artificial_intelligence",
+		"collidable",
+		"dialogues",
+		"equipment",
+		"experience_gainer",
+		"fighter",
+		"glyph",
+		"health",
+		"humanoid",
+		"minimap_pixel",
+		"moveable",
+		"name",
+		"persona",
+		"position_2d",
+		"sight",
+		"skills",
+		"stamina",
+		"statistics",
+		"tags"
+	],
+	"corpse": "2101",
+	"description": "A person of living wood, bark-skinned and rooted to the soil by memory alone.",
+	"dialogues": [],
+	"experience_gainer": {
+		"exp": 0,
+		"level": 20
+	},
+	"fighter": {
+		"attackNames": [
+			"Branch Slam"
+		]
+	},
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 0
+			}
+		],
+		"random_frame_start": false
+	},
+	"health": 150,
+	"humanoid": {
+		"race": "6"
+	},
+	"id": "arendeth_arborborn_Arborborn_Player",
+	"minimap_pixel": [
+		115,
+		150,
+		90
+	],
+	"moveable": {
+		"speed": 1.0
+	},
+	"name": "Arborborn Player",
+	"persona": {
+		"occupation": "None"
+	},
+	"sight": {
+		"ignore_infra_penalty": false,
+		"infravision": false,
+		"range": 10,
+		"threesixty": false
+	},
+	"skills": {
+		"max_skill": 20,
+		"milestones": [
+			"arendeth_arborborn_Heartwood_Altar_recipe",
+			"arendeth_arborborn_Rebirth_Shift",
+			"arendeth_arborborn_ancient_bark",
+			"arendeth_arborborn_apex_predator",
+			"arendeth_arborborn_barbed_tips",
+			"arendeth_arborborn_bark_slam",
+			"arendeth_arborborn_briar_lash",
+			"arendeth_arborborn_canopy_ward",
+			"arendeth_arborborn_cinder_burst",
+			"arendeth_arborborn_druids_focus",
+			"arendeth_arborborn_feral_instinct",
+			"arendeth_arborborn_entangling_vines",
+			"arendeth_arborborn_form_mastery",
+			"arendeth_arborborn_heartwood_pulse",
+			"arendeth_arborborn_hibernation",
+			"arendeth_arborborn_hunters_mark",
+			"arendeth_arborborn_life_of_the_grove",
+			"arendeth_arborborn_mastery",
+			"arendeth_arborborn_mycelial_surge",
+			"arendeth_arborborn_green_thumb",
+			"arendeth_arborborn_pack_hunter",
+			"arendeth_arborborn_predators_patience",
+			"arendeth_arborborn_rending_claws",
+			"arendeth_arborborn_rooted_stamina",
+			"arendeth_arborborn_rootwarden",
+			"arendeth_arborborn_forest_stride",
+			"arendeth_arborborn_pounce_rend",
+			"arendeth_arborborn_rotting_bite",
+			"arendeth_arborborn_sap_blood",
+			"arendeth_arborborn_heartwood",
+			"arendeth_arborborn_primal_surge",
+			"arendeth_arborborn_spore_bloom",
+			"arendeth_arborborn_spore_lash_passive",
+			"arendeth_arborborn_thorn_barrage",
+			"arendeth_arborborn_thornhide",
+			"arendeth_arborborn_rut",
+			"arendeth_arborborn_sporefall_roar",
+			"arendeth_arborborn_thornlash",
+			"arendeth_arborborn_verdant_apex",
+			"arendeth_arborborn_sap_coating",
+			"arendeth_arborborn_toxic_skin",
+			"arendeth_arborborn_verdant_fury",
+			"arendeth_arborborn_wild_growth",
+			"arendeth_arborborn_spore_cloud",
+			"arendeth_arborborn_venom_fangs",
+			"arendeth_arborborn_wild_reflexes",
+			"arendeth_arborborn_heavy_roots",
+			"arendeth_arborborn_verdant_mending",
+			"arendeth_arborborn_thorn_mantle",
+			"arendeth_arborborn_wide_bloom"
+		],
+		"min_skill": 20,
+		"skills": [
+			"arendeth_arborborn"
+		]
+	},
+	"stamina": {
+		"fatigue": 100,
+		"stamina": 100,
+		"stamina_regen": 0.0
+	},
+	"statistics": {
+		"dexterity": [
+			10,
+			10
+		],
+		"endurance": [
+			10,
+			10
+		],
+		"health_regen": 0.5,
+		"health_regen_tick": 10.0,
+		"intelligence": [
+			10,
+			10
+		],
+		"strength": [
+			10,
+			10
+		],
+		"willpower": [
+			10,
+			10
+		]
+	},
+	"tags": [
+		"9",
+		"3"
+	]
+}

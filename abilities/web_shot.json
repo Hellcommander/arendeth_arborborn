@@ -1,0 +1,20 @@
+{
+	"id": "arendeth_arborborn_Web_Shot",
+	"name": "Web Shot",
+	"description": "Spit a sticky web that pins the target in place.",
+	"target": "actor",
+	"range": 7,
+	"effects": {
+		"immobilize": 3
+	},
+	"animation": "34",
+	"cost": {
+		"health": 0,
+		"stamina": 0
+	},
+	"cast_time": 0.5,
+	"cooldown": 10.0,
+	"skill": "arendeth_arborborn",
+	"duration": 0.0,
+	"image": 65
+}

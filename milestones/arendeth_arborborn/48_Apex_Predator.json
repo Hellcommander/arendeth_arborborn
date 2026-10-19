@@ -1,0 +1,16 @@
+{
+	"id": "arendeth_arborborn_apex_predator",
+	"name": "Apex Predator",
+	"requirements": {
+		"milestones": [],
+		"skill": 48
+	},
+	"rewards": [
+		{
+			"amplifier": "arendeth_arborborn_apex_predator"
+		}
+	],
+	"skill_id": "arendeth_arborborn",
+	"steps": [],
+	"steps_type": 0
+}

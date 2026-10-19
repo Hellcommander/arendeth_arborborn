@@ -1,0 +1,16 @@
+{
+	"id": "arendeth_arborborn_cinder_burst",
+	"name": "Cinder Burst",
+	"requirements": {
+		"milestones": [],
+		"skill": 15
+	},
+	"rewards": [
+		{
+			"ability": "arendeth_arborborn_cinder_burst"
+		}
+	],
+	"skill_id": "arendeth_arborborn",
+	"steps": [],
+	"steps_type": 0
+}

@@ -1,0 +1,122 @@
+{
+	"ability_user": [
+		"core_2_Roots",
+		"arendeth_arborborn_tail_sweep"
+	],
+	"armor": {
+		"acid": 999,
+		"poison": 999,
+		"fire": 15,
+		"frost": 10,
+		"death": 10,
+		"electricity": 5,
+		"holy": 0,
+		"physical": 8,
+		"parry": 2,
+		"thorns": 0
+	},
+	"artificial_intelligence": {
+		"allies": [
+			"5"
+		],
+		"allow_production": [],
+		"behaviors": [],
+		"enemies": []
+	},
+	"components": [
+		"ability_user",
+		"actor",
+		"armor",
+		"artificial_intelligence",
+		"collidable",
+		"experience_gainer",
+		"fighter",
+		"glyph",
+		"health",
+		"minimap_pixel",
+		"moveable",
+		"name",
+		"position_2d",
+		"sight",
+		"stamina",
+		"statistics",
+		"tags",
+		"weapon"
+	],
+	"corpse": [],
+	"description": "A wingless, serpentine wyrm cloaked in vibrant fungal caps and mycelial tendrils.",
+	"experience_gainer": {
+		"exp": 0,
+		"level": 50
+	},
+	"fighter": {
+		"attackNames": [
+			"Tail Bash"
+		]
+	},
+	"glyph": {
+		"frames": [
+			{
+				"index": 6,
+				"color": [255,255,255],
+				"delay": 24
+			},
+			{
+				"index": 8,
+				"color": [255,255,255],
+				"delay": 24
+			}
+		],
+		"random_frame_start": true
+	},
+	"health": 600,
+	"id": "arendeth_arborborn_Dragonic_Mush_Dragon_Tail",
+	"minimap_pixel": [
+		149,
+		165,
+		101
+	],
+	"moveable": {
+		"speed": 0.699999988079071
+	},
+	"name": "Dragonic Mush Dragon Tail",
+	"sight": {
+		"ignore_infra_penalty": true,
+		"infravision": true,
+		"range": 12,
+		"threesixty": true
+	},
+	"stamina": {
+		"fatigue": 100,
+		"stamina": 100,
+		"stamina_regen": 3.0
+	},
+"statistics": {
+    "dexterity": [25, 35],
+    "endurance": [35, 45],
+    "intelligence": [40, 50],
+    "magic_power": 35,
+    "strength": [25, 35],
+    "willpower": [35, 45]
+},
+	"tags": [
+		"38",
+		"5"
+	],
+	"weapon": {
+		"attack_speed": 1.0,
+		"critical_hit": 0.0,
+		"damage": [
+			{
+				"dmg_max": 70,
+				"dmg_min": 35,
+				"dmg_type": "physical"
+			}
+		],
+		"hands": 2,
+		"hit_bonus": 5,
+		"parry_bonus": 3,
+		"range": 1,
+		"type": 2
+	}
+}

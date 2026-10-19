@@ -1,0 +1,35 @@
+{
+	"id": "arendeth_arborborn_spore_bloom",
+	"name": "Spore Bloom",
+	"description": "A cloud of spores bursts open: ::damage ::damage_type damage in an area and 4 Spores. Scales with Magic Power.",
+	"target": "aoe_tile",
+	"range": 6,
+	"effects": {
+		"damage": [
+			5,
+			9
+		],
+		"damage_type": "poison",
+		"magic_power_damage": 0.5,
+		"aoe_range": 3,
+		"aoe_shape": 1,
+		"stacker_count": 4
+	},
+	"effects_keys": {
+		"stacker": "arendeth_arborborn_spores"
+	},
+	"animation": "34",
+	"cost": {
+		"health": 0,
+		"stamina": 7
+	},
+	"cast_time": 0.5,
+	"cooldown": 12.0,
+	"skill": "arendeth_arborborn",
+	"duration": 0.0,
+	"image": 52,
+	"slots": {
+		"offensive": 2,
+		"utility": 1
+	}
+}

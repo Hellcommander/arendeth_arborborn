@@ -1,0 +1,22 @@
+{
+	"id": "arendeth_arborborn_pack_howl",
+	"name": "Pack Howl",
+	"description": "A bone-chilling howl that sends nearby enemies fleeing in fear.",
+	"target": "aoe_tile",
+	"range": 3,
+	"effects": {
+		"aoe_range": 4,
+		"aoe_shape": 1,
+		"fear": 2
+	},
+	"animation": "34",
+	"cost": {
+		"health": 0,
+		"stamina": 0
+	},
+	"cast_time": 0.5,
+	"cooldown": 14.0,
+	"skill": "arendeth_arborborn",
+	"duration": 0.0,
+	"image": 44
+}

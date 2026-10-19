@@ -1,0 +1,16 @@
+{
+	"id": "arendeth_arborborn_pounce_rend",
+	"name": "Pounce Rend",
+	"requirements": {
+		"milestones": [],
+		"skill": 22
+	},
+	"rewards": [
+		{
+			"ability": "arendeth_arborborn_pounce_rend"
+		}
+	],
+	"skill_id": "arendeth_arborborn",
+	"steps": [],
+	"steps_type": 0
+}

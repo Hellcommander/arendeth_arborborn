@@ -1,0 +1,31 @@
+{
+	"id": "arendeth_arborborn_Trample",
+	"name": "Trample",
+	"description": "Charge through enemies for ::damage ::damage_type damage in an area, knocking them aside.",
+	"target": "actor",
+	"range": 6,
+	"effects": {
+		"damage": [
+			3,
+			5
+		],
+		"damage_type": "physical",
+		"charge": 5,
+		"aoe_range": 1,
+		"aoe_shape": 1,
+		"knockback": 2,
+		"damage_weapon": 0.66,
+		"ability_can_crit": 1,
+		"magic_power_damage": 0.71
+	},
+	"animation": "34",
+	"cost": {
+		"health": 0,
+		"stamina": 0
+	},
+	"cast_time": 0.5,
+	"cooldown": 12.0,
+	"skill": "arendeth_arborborn",
+	"duration": 0.0,
+	"image": 61
+}

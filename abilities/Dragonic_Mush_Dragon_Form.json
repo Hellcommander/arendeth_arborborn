@@ -1,0 +1,21 @@
+{
+	"animation": "34",
+	"cast_time": 1.0,
+	"cooldown": 60.0,
+	"cost": {
+		"health": 0,
+		"stamina": 20
+	},
+	"description": "Take the shape of a dragonic mush dragon: a wyrm of spores and mycelium. Lasts 60 turns. Unlocks at Arborborn level 50. Requires the Arborborn body.",
+	"duration": 60.0,
+	"effects": {},
+	"effects_keys": {
+		"transform": "arendeth_arborborn_Form_Mush_Dragon"
+	},
+	"id": "arendeth_arborborn_Shift_Mush_Dragon",
+	"image": 4,
+	"name": "Dragonic Mush Dragon Form",
+	"range": 0,
+	"skill": "arendeth_arborborn",
+	"target": "actor"
+}

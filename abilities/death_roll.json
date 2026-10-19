@@ -1,0 +1,29 @@
+{
+	"id": "arendeth_arborborn_Death_Roll",
+	"name": "Death Roll",
+	"description": "Clamp down and spin: ::damage ::damage_type damage, bleeding, and the target is held in place.",
+	"target": "actor",
+	"range": 1,
+	"effects": {
+		"damage": [
+			2,
+			4
+		],
+		"damage_type": "physical",
+		"bleed": 6,
+		"immobilize": 2,
+		"damage_weapon": 0.73,
+		"ability_can_crit": 1,
+		"magic_power_damage": 0.72
+	},
+	"animation": "34",
+	"cost": {
+		"health": 0,
+		"stamina": 0
+	},
+	"cast_time": 0.5,
+	"cooldown": 10.0,
+	"skill": "arendeth_arborborn",
+	"duration": 0.0,
+	"image": 33
+}

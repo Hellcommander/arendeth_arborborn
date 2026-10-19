@@ -1,0 +1,16 @@
+{
+	"id": "arendeth_arborborn_heartwood_pulse",
+	"name": "Heartwood Pulse",
+	"requirements": {
+		"milestones": [],
+		"skill": 19
+	},
+	"rewards": [
+		{
+			"ability": "arendeth_arborborn_heartwood_pulse"
+		}
+	],
+	"skill_id": "arendeth_arborborn",
+	"steps": [],
+	"steps_type": 0
+}

@@ -1,0 +1,24 @@
+{
+	"id": "arendeth_arborborn_toxic_skin",
+	"name": "Toxic Skin",
+	"description": "Secrete irritating slime: attackers take thorns damage for a while.",
+	"target": "self",
+	"range": 0,
+	"effects": {
+		"thorns": 3
+	},
+	"animation": "34",
+	"cost": {
+		"health": 0,
+		"stamina": 4
+	},
+	"cast_time": 0.5,
+	"cooldown": 14.0,
+	"skill": "arendeth_arborborn",
+	"duration": 6.0,
+	"image": 60,
+	"slots": {
+		"offensive": 2,
+		"utility": 1
+	}
+}

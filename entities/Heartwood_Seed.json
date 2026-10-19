@@ -1,0 +1,46 @@
+{
+	"components": [
+		"glyph",
+		"item",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"stackable",
+		"temporary",
+		"usable",
+		"weight"
+	],
+	"description": "Arborborn is awakened nature magic. Levels 10-20 grant useful primal abilities, but true growth requires abandoning your race and embracing a living tree form. Transformations only unlock after the change changing into a arbornborn entity via a ritual but advancement still unlocks nature based skills. This item will fade away in 120 turns of time.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 1
+			}
+		],
+		"random_frame_start": false
+	},
+	"id": "arendeth_arborborn_Heartwood_Seed",
+	"item": {
+		"image": 0,
+		"type": 17
+	},
+	"minimap_pixel": [
+		179,
+		178,
+		176
+	],
+	"name": "Heartwood Seed",
+	"temporary": 120.0,
+	"usable": {
+		"ability": "",
+		"recipe": "",
+		"skill_p": "arendeth_arborborn"
+	},
+	"weight": 0.10000000149011612
+}

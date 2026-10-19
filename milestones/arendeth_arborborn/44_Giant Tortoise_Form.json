@@ -1,0 +1,16 @@
+{
+	"id": "arendeth_arborborn_Shift_Giant_Tortoise",
+	"name": "Giant Tortoise Form",
+	"requirements": {
+		"milestones": [],
+		"skill": 44
+	},
+	"rewards": [
+		{
+			"ability": "arendeth_arborborn_Shift_Giant_Tortoise"
+		}
+	],
+	"skill_id": "arendeth_arborborn",
+	"steps": [],
+	"steps_type": 0
+}

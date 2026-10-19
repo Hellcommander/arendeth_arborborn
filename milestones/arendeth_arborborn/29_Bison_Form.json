@@ -1,0 +1,16 @@
+{
+	"id": "arendeth_arborborn_Shift_Bison",
+	"name": "Bison Form",
+	"requirements": {
+		"milestones": [],
+		"skill": 29
+	},
+	"rewards": [
+		{
+			"ability": "arendeth_arborborn_Shift_Bison"
+		}
+	],
+	"skill_id": "arendeth_arborborn",
+	"steps": [],
+	"steps_type": 0
+}

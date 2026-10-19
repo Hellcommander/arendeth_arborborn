@@ -1,0 +1,14 @@
+{
+	"id": "arendeth_arborborn_bark_body",
+	"innate": true,
+	"name": "Bark Body",
+	"requirements": {},
+	"rewards": [
+		{
+			"passive": "arendeth_arborborn_bark_body"
+		}
+	],
+	"skill_id": "arendeth_arborborn",
+	"steps": [],
+	"steps_type": 0
+}

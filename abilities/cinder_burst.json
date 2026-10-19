@@ -1,0 +1,33 @@
+{
+	"id": "arendeth_arborborn_cinder_burst",
+	"name": "Cinder Burst",
+	"description": "Spit a pocket of embers: ::damage ::damage_type damage in an area and burning.",
+	"target": "aoe_tile",
+	"range": 5,
+	"effects": {
+		"damage": [
+			4,
+			6
+		],
+		"damage_type": "fire",
+		"burn": 3,
+		"aoe_range": 1,
+		"aoe_shape": 1,
+		"ability_can_crit": 1,
+		"magic_power_damage": 1.03
+	},
+	"animation": "34",
+	"cost": {
+		"health": 0,
+		"stamina": 5
+	},
+	"cast_time": 0.5,
+	"cooldown": 8.0,
+	"skill": "arendeth_arborborn",
+	"duration": 0.0,
+	"image": 32,
+	"slots": {
+		"offensive": 2,
+		"utility": 1
+	}
+}

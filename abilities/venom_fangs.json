@@ -1,0 +1,33 @@
+{
+	"id": "arendeth_arborborn_venom_fangs",
+	"name": "Venom Fangs",
+	"description": "Sink crystalline fangs in for ::damage ::damage_type damage, heavy poison and drained stamina.",
+	"target": "actor",
+	"range": 1,
+	"effects": {
+		"damage": [
+			4,
+			8
+		],
+		"damage_type": "poison",
+		"poison_effect": 5,
+		"burn_stamina": 3,
+		"damage_weapon": 1.04,
+		"ability_can_crit": 1,
+		"magic_power_damage": 0.78
+	},
+	"animation": "34",
+	"cost": {
+		"health": 0,
+		"stamina": 6
+	},
+	"cast_time": 0.5,
+	"cooldown": 6.0,
+	"skill": "arendeth_arborborn",
+	"duration": 0.0,
+	"image": 63,
+	"slots": {
+		"offensive": 2,
+		"utility": 1
+	}
+}

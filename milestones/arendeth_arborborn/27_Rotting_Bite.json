@@ -1,0 +1,16 @@
+{
+	"id": "arendeth_arborborn_rotting_bite",
+	"name": "Rotting Bite",
+	"requirements": {
+		"milestones": [],
+		"skill": 27
+	},
+	"rewards": [
+		{
+			"amplifier": "arendeth_arborborn_rotting_bite"
+		}
+	],
+	"skill_id": "arendeth_arborborn",
+	"steps": [],
+	"steps_type": 0
+}

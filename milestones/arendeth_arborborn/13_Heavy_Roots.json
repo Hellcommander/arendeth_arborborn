@@ -1,0 +1,16 @@
+{
+	"id": "arendeth_arborborn_heavy_roots",
+	"name": "Heavy Roots",
+	"requirements": {
+		"milestones": [],
+		"skill": 13
+	},
+	"rewards": [
+		{
+			"amplifier": "arendeth_arborborn_heavy_roots"
+		}
+	],
+	"skill_id": "arendeth_arborborn",
+	"steps": [],
+	"steps_type": 0
+}

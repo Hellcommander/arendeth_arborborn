@@ -1,0 +1,29 @@
+{
+	"id": "arendeth_arborborn_Wolf_Pounce",
+	"name": "Pounce",
+	"description": "Leap onto the target for ::damage ::damage_type damage and a shove.",
+	"target": "actor",
+	"range": 5,
+	"effects": {
+		"damage": [
+			3,
+			5
+		],
+		"damage_type": "physical",
+		"lunge": 4,
+		"knockback": 1,
+		"damage_weapon": 1.03,
+		"ability_can_crit": 1,
+		"magic_power_damage": 0.67
+	},
+	"animation": "34",
+	"cost": {
+		"health": 0,
+		"stamina": 0
+	},
+	"cast_time": 0.5,
+	"cooldown": 8.0,
+	"skill": "arendeth_arborborn",
+	"duration": 0.0,
+	"image": 66
+}

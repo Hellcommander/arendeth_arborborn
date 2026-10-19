@@ -1,0 +1,27 @@
+{
+	"id": "arendeth_arborborn_rut",
+	"name": "Rut",
+	"description": "Work yourself into a rage, gaining 3 Primal Fury.",
+	"target": "self",
+	"range": 0,
+	"effects": {
+		"stacker_count": 3
+	},
+	"effects_keys": {
+		"stacker": "arendeth_arborborn_primal_fury"
+	},
+	"animation": "34",
+	"cost": {
+		"health": 0,
+		"stamina": 5
+	},
+	"cast_time": 0.5,
+	"cooldown": 16.0,
+	"skill": "arendeth_arborborn",
+	"duration": 0.0,
+	"image": 49,
+	"slots": {
+		"offensive": 2,
+		"utility": 1
+	}
+}

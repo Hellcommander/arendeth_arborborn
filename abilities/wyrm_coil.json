@@ -1,0 +1,28 @@
+{
+	"id": "arendeth_arborborn_Wyrm_Coil",
+	"name": "Wyrm Coil",
+	"description": "Coil around enemies, pulling them in and holding them: ::damage ::damage_type damage.",
+	"target": "aoe_tile",
+	"range": 6,
+	"effects": {
+		"damage": [
+			20,
+			35
+		],
+		"damage_type": "physical",
+		"pull_target": 4,
+		"immobilize": 2,
+		"aoe_range": 3,
+		"aoe_shape": 1
+	},
+	"animation": "34",
+	"cost": {
+		"health": 0,
+		"stamina": 0
+	},
+	"cast_time": 0.5,
+	"cooldown": 18.0,
+	"skill": "arendeth_arborborn",
+	"duration": 0.0,
+	"image": 67
+}

@@ -1,0 +1,24 @@
+{
+	"animation": "34",
+	"cast_time": 1.0,
+	"cooldown": 35.0,
+	"cost": {
+		"health": 0,
+		"stamina": 8
+	},
+	"description": "Take the shape of a leopard: a stalker that vanishes and rends. Lasts 40 turns. Unlocks at Arborborn level 25. Requires the Arborborn body.",
+	"duration": 40.0,
+	"effects": {
+		"movement_speed": -0.1,
+		"attack_speed": -0.1
+	},
+	"effects_keys": {
+		"transform": "arendeth_arborborn_Form_Leopard"
+	},
+	"id": "arendeth_arborborn_Shift_Leopard",
+	"image": 24,
+	"name": "Leopard Form",
+	"range": 0,
+	"skill": "arendeth_arborborn",
+	"target": "actor"
+}

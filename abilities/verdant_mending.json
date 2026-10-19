@@ -1,0 +1,28 @@
+{
+	"id": "arendeth_arborborn_verdant_mending",
+	"name": "Verdant Mending",
+	"description": "Draw sap through the roots to knit your wounds.",
+	"target": "self",
+	"range": 0,
+	"effects": {
+		"heal": [
+			18,
+			30
+		],
+		"regeneration": 0.5
+	},
+	"animation": "34",
+	"cost": {
+		"health": 0,
+		"stamina": 6
+	},
+	"cast_time": 0.5,
+	"cooldown": 20.0,
+	"skill": "arendeth_arborborn",
+	"duration": 6.0,
+	"image": 64,
+	"slots": {
+		"offensive": 2,
+		"utility": 1
+	}
+}

@@ -1,0 +1,30 @@
+{
+	"animation": "34",
+	"cast_time": 0.4,
+	"cooldown": 3.0,
+	"cost": {
+		"health": 0,
+		"stamina": 3
+	},
+	"description": "Lash out with a barbed vine for ::damage ::damage_type damage and bleeding. Scales with Magic Power.",
+	"duration": 0.0,
+	"effects": {
+		"damage": [
+			3,
+			6
+		],
+		"damage_type": "physical",
+		"magic_power_damage": 0.6,
+		"bleed": 3
+	},
+	"id": "arendeth_arborborn_thornlash",
+	"image": 58,
+	"name": "Thornlash",
+	"range": 5,
+	"skill": "arendeth_arborborn",
+	"target": "actor",
+	"slots": {
+		"offensive": 2,
+		"utility": 1
+	}
+}

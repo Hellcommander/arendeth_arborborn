@@ -1,0 +1,16 @@
+{
+	"id": "arendeth_arborborn_spore_lash_passive",
+	"name": "Spore Lash",
+	"requirements": {
+		"milestones": [],
+		"skill": 34
+	},
+	"rewards": [
+		{
+			"passive": "arendeth_arborborn_spore_lash_passive"
+		}
+	],
+	"skill_id": "arendeth_arborborn",
+	"steps": [],
+	"steps_type": 0
+}

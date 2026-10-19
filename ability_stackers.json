@@ -1,0 +1,51 @@
+[
+	{
+		"id": "arendeth_arborborn_spores",
+		"name": "Spores",
+		"image": 0,
+		"effects": [
+			{
+				"effect": "movement_speed",
+				"value": 0.02
+			}
+		],
+		"max_stacks": 10,
+		"duration": 6,
+		"apply_caster": false,
+		"description": "Clinging spores slow movement by 0.02 turn per stack, up to 10. Lasts 6 turns if not refreshed."
+	},
+	{
+		"id": "arendeth_arborborn_primal_fury",
+		"name": "Primal Fury",
+		"image": 1,
+		"effects": [
+			{
+				"effect": "attack_speed",
+				"value": -0.02
+			},
+			{
+				"effect": "damage_bonus_percent",
+				"value": 0.04
+			}
+		],
+		"max_stacks": 8,
+		"duration": 8,
+		"apply_caster": true,
+		"description": "You attack quicker by 0.02 turn and deal 4% more damage per stack, up to 8. Lasts 8 turns."
+	},
+	{
+		"id": "arendeth_arborborn_hobbled",
+		"name": "Hobbled",
+		"image": 2,
+		"effects": [
+			{
+				"effect": "movement_speed",
+				"value": 0.05
+			}
+		],
+		"max_stacks": 4,
+		"duration": 5,
+		"apply_caster": false,
+		"description": "A torn leg slows movement by 0.05 turn per stack, up to 4. Lasts 5 turns."
+	}
+]

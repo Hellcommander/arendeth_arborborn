@@ -1,0 +1,164 @@
+{
+	"ability_user": [
+		"41",
+		"arendeth_arborborn_cinder_burst",
+		"arendeth_arborborn_skitter_flit",
+		"arendeth_arborborn_hoard_snarl",
+		"arendeth_arborborn_Return_To_Wood"
+	],
+	"armor": {
+		"acid": 2,
+		"death": 3,
+		"electricity": 2,
+		"fire": 9999,
+		"frost": 8,
+		"holy": 0,
+		"parry": 1,
+		"physical": 3,
+		"poison": 2,
+		"thorns": 0
+	},
+	"artificial_intelligence": {
+		"allies": [
+			"5"
+		],
+		"allow_production": [],
+		"behaviors": [],
+		"enemies": []
+	},
+	"components": [
+		"ability_user",
+		"actor",
+		"armor",
+		"artificial_intelligence",
+		"collidable",
+		"dialogues",
+		"equipment",
+		"experience_gainer",
+		"fighter",
+		"glyph",
+		"health",
+		"minimap_pixel",
+		"moveable",
+		"name",
+		"position_2d",
+		"sight",
+		"stamina",
+		"statistics",
+		"tags",
+		"weapon"
+	],
+	"corpse": "core_2_Tiny_Dragon_Corpse",
+	"description": "A dragon no bigger than a hand doesn't seem scary until it breathes a tiny burst of fire.",
+	"dialogues": [],
+	"equipment": {
+		"disabled_slots": [
+			0,
+			1,
+			2,
+			3,
+			4,
+			5,
+			6,
+			7,
+			8,
+			9,
+			10,
+			11,
+			12,
+			13,
+			14,
+			15,
+			16,
+			17
+		]
+	},
+	"experience_gainer": {
+		"exp": 0,
+		"level": 20
+	},
+	"fighter": {
+		"attackNames": [
+			"Bite"
+		]
+	},
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 32
+			}
+		],
+		"random_frame_start": false
+	},
+	"health": 400,
+	"id": "arendeth_arborborn_Form_Tiny_Dragon",
+	"minimap_pixel": [
+		139,
+		69,
+		19
+	],
+	"moveable": {
+		"speed": 0.8999999761581421
+	},
+	"name": "Tiny Dragon Form",
+	"sight": {
+		"ignore_infra_penalty": false,
+		"infravision": false,
+		"range": 7,
+		"threesixty": false
+	},
+	"stamina": {
+		"fatigue": 100,
+		"stamina": 100,
+		"stamina_regen": 3.0
+	},
+	"statistics": {
+		"dexterity": [
+			28,
+			31
+		],
+		"endurance": [
+			30,
+			33
+		],
+		"intelligence": [
+			40,
+			43
+		],
+		"strength": [
+			16,
+			19
+		],
+		"willpower": [
+			34,
+			37
+		]
+	},
+	"tags": [
+		"2",
+		"9"
+	],
+	"weapon": {
+		"attack_animation": "235",
+		"attack_speed": 1.0,
+		"critical_hit": 0.0,
+		"damage": [
+			{
+				"dmg_max": 9,
+				"dmg_min": 5,
+				"dmg_type": "physical"
+			}
+		],
+		"hands": 1,
+		"hit_bonus": 0,
+		"parry_bonus": 0,
+		"range": 1,
+		"type": 2
+	}
+}

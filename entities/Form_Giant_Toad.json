@@ -1,0 +1,149 @@
+{
+	"ability_user": [
+		"37",
+		"arendeth_arborborn_Tongue_Pull",
+		"arendeth_arborborn_hop_slam",
+		"arendeth_arborborn_toxic_skin",
+		"arendeth_arborborn_Return_To_Wood"
+	],
+	"artificial_intelligence": {
+		"allies": [
+			"5"
+		],
+		"allow_production": [],
+		"behaviors": [],
+		"enemies": []
+	},
+	"components": [
+		"ability_user",
+		"actor",
+		"artificial_intelligence",
+		"collidable",
+		"dialogues",
+		"equipment",
+		"experience_gainer",
+		"fighter",
+		"glyph",
+		"health",
+		"minimap_pixel",
+		"moveable",
+		"name",
+		"position_2d",
+		"sight",
+		"stamina",
+		"statistics",
+		"tags",
+		"weapon"
+	],
+	"corpse": "636",
+	"description": "Giant, slimy toad reaches 2 meters high.",
+	"dialogues": [],
+	"equipment": {
+		"disabled_slots": [
+			0,
+			2,
+			4,
+			5,
+			6,
+			7,
+			8,
+			9,
+			10,
+			11,
+			12,
+			13,
+			14,
+			15,
+			16,
+			17
+		]
+	},
+	"experience_gainer": {
+		"exp": 0,
+		"level": 10
+	},
+	"fighter": {
+		"attackNames": [
+			"Bite",
+			"Tongue whip"
+		]
+	},
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 2000,
+				"index": 26
+			}
+		],
+		"random_frame_start": true
+	},
+	"health": 420,
+	"id": "arendeth_arborborn_Form_Giant_Toad",
+	"minimap_pixel": [
+		187,
+		197,
+		94
+	],
+	"moveable": {
+		"speed": 0.8999999761581421
+	},
+	"name": "Giant Toad Form",
+	"sight": {
+		"ignore_infra_penalty": false,
+		"infravision": false,
+		"range": 7,
+		"threesixty": false
+	},
+	"stamina": {
+		"fatigue": 100,
+		"stamina": 100,
+		"stamina_regen": 3.0
+	},
+	"statistics": {
+		"dexterity": [
+			24,
+			27
+		],
+		"endurance": [
+			26,
+			29
+		],
+		"intelligence": [
+			30,
+			33
+		],
+		"strength": [
+			26,
+			29
+		],
+		"willpower": [
+			18,
+			21
+		]
+	},
+	"tags": [
+		"2",
+		"9"
+	],
+	"weapon": {
+		"critical_hit": 0.0,
+		"hands": 1,
+		"hit_bonus": 1,
+		"parry_bonus": 0,
+		"range": 1,
+		"type": 1,
+		"attack_speed": 1.0,
+		"damage": [
+			{
+				"dmg_max": 9,
+				"dmg_min": 5,
+				"dmg_type": "physical"
+			}
+		]
+	}
+}

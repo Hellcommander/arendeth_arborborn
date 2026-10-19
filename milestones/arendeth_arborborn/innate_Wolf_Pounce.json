@@ -1,0 +1,14 @@
+{
+	"id": "arendeth_arborborn_Wolf_Pounce",
+	"innate": true,
+	"name": "Wolf Pounce",
+	"requirements": {},
+	"rewards": [
+		{
+			"ability": "arendeth_arborborn_Wolf_Pounce"
+		}
+	],
+	"skill_id": "arendeth_arborborn",
+	"steps": [],
+	"steps_type": 0
+}

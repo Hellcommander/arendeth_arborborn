@@ -1,0 +1,16 @@
+{
+	"id": "arendeth_arborborn_barbed_tips",
+	"name": "Barbed Tips",
+	"requirements": {
+		"milestones": [],
+		"skill": 2
+	},
+	"rewards": [
+		{
+			"amplifier": "arendeth_arborborn_barbed_tips"
+		}
+	],
+	"skill_id": "arendeth_arborborn",
+	"steps": [],
+	"steps_type": 0
+}

@@ -1,0 +1,21 @@
+{
+	"animation": "34",
+	"cast_time": 0.3,
+	"cooldown": 2.0,
+	"cost": {
+		"health": 0,
+		"stamina": 0
+	},
+	"description": "Shed your borrowed shape and return to your Arborborn body.",
+	"duration": 0.0,
+	"effects": {},
+	"effects_keys": {
+		"transform": "arendeth_arborborn_Arborborn_Body"
+	},
+	"id": "arendeth_arborborn_Return_To_Wood",
+	"image": 16,
+	"name": "Return to Wood",
+	"range": 0,
+	"skill": "arendeth_arborborn",
+	"target": "actor"
+}

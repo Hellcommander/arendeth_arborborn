@@ -1,0 +1,29 @@
+{
+	"id": "arendeth_arborborn_mycelial_surge",
+	"name": "Mycelial Surge",
+	"description": "Mycelium bursts from the earth and raises four Thorn Spitters.",
+	"target": "aoe_tile",
+	"range": 8,
+	"effects": {
+		"summon_count": 4,
+		"aoe_range": 3,
+		"aoe_shape": 1
+	},
+	"effects_keys": {
+		"summon": "Arborborn_Druidic_Thorn_Spitter"
+	},
+	"animation": "34",
+	"cost": {
+		"health": 0,
+		"stamina": 14
+	},
+	"cast_time": 0.5,
+	"cooldown": 30.0,
+	"skill": "arendeth_arborborn",
+	"duration": 25.0,
+	"image": 43,
+	"slots": {
+		"offensive": 2,
+		"utility": 1
+	}
+}

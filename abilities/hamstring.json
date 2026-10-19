@@ -1,0 +1,32 @@
+{
+	"id": "arendeth_arborborn_hamstring",
+	"name": "Hamstring",
+	"description": "A tearing bite for ::damage ::damage_type damage, bleeding and 2 Hobbled.",
+	"target": "actor",
+	"range": 1,
+	"effects": {
+		"damage": [
+			3,
+			5
+		],
+		"damage_type": "physical",
+		"bleed": 6,
+		"stacker_count": 2,
+		"damage_weapon": 1.2,
+		"ability_can_crit": 1,
+		"magic_power_damage": 0.77
+	},
+	"effects_keys": {
+		"stacker": "arendeth_arborborn_hobbled"
+	},
+	"animation": "34",
+	"cost": {
+		"health": 0,
+		"stamina": 0
+	},
+	"cast_time": 0.5,
+	"cooldown": 6.0,
+	"skill": "arendeth_arborborn",
+	"duration": 0.0,
+	"image": 35
+}

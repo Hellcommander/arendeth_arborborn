@@ -1,0 +1,16 @@
+{
+	"id": "arendeth_arborborn_rending_claws",
+	"name": "Rending Claws",
+	"requirements": {
+		"milestones": [],
+		"skill": 21
+	},
+	"rewards": [
+		{
+			"amplifier": "arendeth_arborborn_rending_claws"
+		}
+	],
+	"skill_id": "arendeth_arborborn",
+	"steps": [],
+	"steps_type": 0
+}

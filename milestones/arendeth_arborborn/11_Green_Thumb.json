@@ -1,0 +1,16 @@
+{
+	"id": "arendeth_arborborn_green_thumb",
+	"name": "Green Thumb",
+	"requirements": {
+		"milestones": [],
+		"skill": 11
+	},
+	"rewards": [
+		{
+			"passive": "arendeth_arborborn_green_thumb"
+		}
+	],
+	"skill_id": "arendeth_arborborn",
+	"steps": [],
+	"steps_type": 0
+}

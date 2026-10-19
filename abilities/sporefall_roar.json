@@ -1,0 +1,35 @@
+{
+	"id": "arendeth_arborborn_sporefall_roar",
+	"name": "Sporefall Roar",
+	"description": "A roar that rains spores: ::damage ::damage_type damage across a wide area, fear and 6 Spores.",
+	"target": "aoe_tile",
+	"range": 3,
+	"effects": {
+		"damage": [
+			28,
+			45
+		],
+		"damage_type": "poison",
+		"aoe_range": 5,
+		"aoe_shape": 1,
+		"fear": 1,
+		"stacker_count": 6
+	},
+	"effects_keys": {
+		"stacker": "arendeth_arborborn_spores"
+	},
+	"animation": "34",
+	"cost": {
+		"health": 0,
+		"stamina": 10
+	},
+	"cast_time": 0.5,
+	"cooldown": 16.0,
+	"skill": "arendeth_arborborn",
+	"duration": 0.0,
+	"image": 53,
+	"slots": {
+		"offensive": 2,
+		"utility": 1
+	}
+}

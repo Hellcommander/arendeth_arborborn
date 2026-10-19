@@ -1,0 +1,16 @@
+{
+	"id": "arendeth_arborborn_druids_focus",
+	"name": "Druid's Focus",
+	"requirements": {
+		"milestones": [],
+		"skill": 23
+	},
+	"rewards": [
+		{
+			"passive": "arendeth_arborborn_druids_focus"
+		}
+	],
+	"skill_id": "arendeth_arborborn",
+	"steps": [],
+	"steps_type": 0
+}

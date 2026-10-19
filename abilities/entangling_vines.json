@@ -1,0 +1,32 @@
+{
+	"animation": "34",
+	"cast_time": 0.5,
+	"cooldown": 10.0,
+	"cost": {
+		"health": 0,
+		"stamina": 4
+	},
+	"description": "Vines erupt and bind enemies in an area, dealing ::damage ::damage_type damage. ",
+	"duration": 2.0,
+	"effects": {
+		"aoe_range": 1,
+		"aoe_shape": 1,
+		"damage": [
+			1,
+			3
+		],
+		"damage_type": "poison",
+		"immobilize": 2,
+		"magic_power_damage": 0.800000011920929
+	},
+	"id": "arendeth_arborborn_entangling_vines",
+	"image": 34,
+	"name": "Entangling Vines",
+	"range": 5,
+	"skill": "arendeth_arborborn",
+	"slots": {
+		"offensive": 2,
+		"utility": 1
+	},
+	"target": "aoe_tile"
+}

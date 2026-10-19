@@ -1,0 +1,33 @@
+{
+	"id": "arendeth_arborborn_bark_slam",
+	"name": "Bark Slam",
+	"description": "A crushing slam for ::damage ::damage_type damage in an area that stuns and knocks back. Scales with Magic Power.",
+	"target": "actor",
+	"range": 1,
+	"effects": {
+		"damage": [
+			14,
+			22
+		],
+		"damage_type": "physical",
+		"magic_power_damage": 0.8,
+		"aoe_range": 2,
+		"aoe_shape": 1,
+		"knockback": 2,
+		"stun": 1
+	},
+	"animation": "34",
+	"cost": {
+		"health": 0,
+		"stamina": 7
+	},
+	"cast_time": 0.5,
+	"cooldown": 10.0,
+	"skill": "arendeth_arborborn",
+	"duration": 0.0,
+	"image": 30,
+	"slots": {
+		"offensive": 2,
+		"utility": 1
+	}
+}

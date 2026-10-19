@@ -1,0 +1,16 @@
+{
+	"id": "arendeth_arborborn_form_mastery",
+	"name": "Form Mastery",
+	"requirements": {
+		"milestones": [],
+		"skill": 35
+	},
+	"rewards": [
+		{
+			"passive": "arendeth_arborborn_form_mastery"
+		}
+	],
+	"skill_id": "arendeth_arborborn",
+	"steps": [],
+	"steps_type": 0
+}

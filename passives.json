@@ -1,0 +1,350 @@
+[
+	{
+		"id": "arendeth_arborborn_mastery",
+		"name": "Arborborn Mastery",
+		"image": 0,
+		"effects": [
+			{
+				"effect": "statistic_percent",
+				"value": "strength",
+				"secondary_value": 0.1
+			},
+			{
+				"effect": "statistic_percent",
+				"value": "dexterity",
+				"secondary_value": 0.1
+			},
+			{
+				"effect": "statistic_percent",
+				"value": "endurance",
+				"secondary_value": 0.1
+			},
+			{
+				"effect": "statistic_percent",
+				"value": "intelligence",
+				"secondary_value": 0.1
+			},
+			{
+				"effect": "statistic_percent",
+				"value": "willpower",
+				"secondary_value": 0.1
+			}
+		],
+		"description": "+10% to all attributes. Stacks with other combat-branch masteries."
+	},
+	{
+		"id": "arendeth_arborborn_bark_body",
+		"name": "Bark Body",
+		"image": 1,
+		"effects": [
+			{
+				"effect": "armor_percent",
+				"value": 0.15
+			},
+			{
+				"effect": "damage_type_reduction",
+				"value": "poison",
+				"secondary_value": 0.25
+			},
+			{
+				"effect": "damage_type_reduction",
+				"value": "fire",
+				"secondary_value": -0.25
+			}
+		],
+		"description": "+15% armor and 25% poison resistance, but 25% weaker to fire."
+	},
+	{
+		"id": "arendeth_arborborn_rooted_vitality",
+		"name": "Rooted Vitality",
+		"image": 2,
+		"effects": [
+			{
+				"effect": "regeneration",
+				"value": 0.2
+			},
+			{
+				"effect": "health_bonus_percent",
+				"value": 0.1
+			}
+		],
+		"description": "Slow sap-borne healing and +10% health."
+	},
+	{
+		"id": "arendeth_arborborn_form_mastery",
+		"name": "Form Mastery",
+		"image": 3,
+		"effects": [
+			{
+				"effect": "ability_extend_duration",
+				"value": "arendeth_arborborn_Shift_Bison",
+				"secondary_value": 1.0
+			},
+			{
+				"effect": "ability_extend_duration",
+				"value": "arendeth_arborborn_Shift_Crocodile",
+				"secondary_value": 1.0
+			},
+			{
+				"effect": "ability_extend_duration",
+				"value": "arendeth_arborborn_Shift_Giant_Toad",
+				"secondary_value": 1.0
+			},
+			{
+				"effect": "ability_extend_duration",
+				"value": "arendeth_arborborn_Shift_Dire_Wolf",
+				"secondary_value": 1.0
+			},
+			{
+				"effect": "ability_extend_duration",
+				"value": "arendeth_arborborn_Shift_Leopard",
+				"secondary_value": 1.0
+			},
+			{
+				"effect": "ability_extend_duration",
+				"value": "arendeth_arborborn_Shift_Lion",
+				"secondary_value": 1.0
+			},
+			{
+				"effect": "ability_extend_duration",
+				"value": "arendeth_arborborn_Shift_Elephant",
+				"secondary_value": 1.0
+			},
+			{
+				"effect": "ability_extend_duration",
+				"value": "arendeth_arborborn_Shift_Tiny_Dragon",
+				"secondary_value": 1.0
+			},
+			{
+				"effect": "ability_extend_duration",
+				"value": "arendeth_arborborn_Shift_Giant_Spider",
+				"secondary_value": 1.0
+			},
+			{
+				"effect": "ability_extend_duration",
+				"value": "arendeth_arborborn_Shift_Giant_Tortoise",
+				"secondary_value": 1.0
+			},
+			{
+				"effect": "ability_extend_duration",
+				"value": "arendeth_arborborn_Shift_Mush_Dragon",
+				"secondary_value": 1.0
+			},
+			{
+				"effect": "ability_extend_duration",
+				"value": "arendeth_arborborn_Shift_Living_Tree",
+				"secondary_value": 1.0
+			}
+		],
+		"description": "Your shapeshifts last twice as long."
+	},
+	{
+		"id": "arendeth_arborborn_green_thumb",
+		"name": "Green Thumb",
+		"image": 4,
+		"effects": [
+			{
+				"effect": "regeneration",
+				"value": 2
+			}
+		],
+		"description": "+2 health regeneration."
+	},
+	{
+		"id": "arendeth_arborborn_thornhide",
+		"name": "Thornhide",
+		"image": 5,
+		"effects": [
+			{
+				"effect": "thorns",
+				"value": 4
+			}
+		],
+		"description": "+4 thorns. Attackers bleed on your bark."
+	},
+	{
+		"id": "arendeth_arborborn_forest_stride",
+		"name": "Forest Stride",
+		"image": 6,
+		"effects": [
+			{
+				"effect": "move_speed",
+				"value": -0.05
+			}
+		],
+		"description": "You move 0.05 turn quicker."
+	},
+	{
+		"id": "arendeth_arborborn_sap_blood",
+		"name": "Sap Blood",
+		"image": 7,
+		"effects": [
+			{
+				"effect": "damage_type_reduction",
+				"value": "poison",
+				"secondary_value": 0.25
+			}
+		],
+		"description": "25% poison resistance."
+	},
+	{
+		"id": "arendeth_arborborn_druids_focus",
+		"name": "Druid's Focus",
+		"image": 8,
+		"effects": [
+			{
+				"effect": "critical_hit",
+				"value": 0.04
+			},
+			{
+				"effect": "critical_damage",
+				"value": 0.1
+			}
+		],
+		"description": "+4% critical chance and +10% critical damage."
+	},
+	{
+		"id": "arendeth_arborborn_heartwood",
+		"name": "Heartwood",
+		"image": 9,
+		"effects": [
+			{
+				"effect": "health_bonus_percent",
+				"value": 0.1
+			}
+		],
+		"description": "+10% health."
+	},
+	{
+		"id": "arendeth_arborborn_wild_reflexes",
+		"name": "Wild Reflexes",
+		"image": 10,
+		"effects": [
+			{
+				"effect": "dodge",
+				"value": 0.08
+			}
+		],
+		"description": "+8% dodge."
+	},
+	{
+		"id": "arendeth_arborborn_canopy_ward",
+		"name": "Canopy Ward",
+		"image": 11,
+		"effects": [
+			{
+				"effect": "damage_type_reduction",
+				"value": "physical",
+				"secondary_value": 0.15
+			}
+		],
+		"description": "15% physical resistance."
+	},
+	{
+		"id": "arendeth_arborborn_rooted_stamina",
+		"name": "Rooted Stamina",
+		"image": 12,
+		"effects": [
+			{
+				"effect": "max_stamina",
+				"value": 15
+			}
+		],
+		"description": "+15 max stamina."
+	},
+	{
+		"id": "arendeth_arborborn_spore_lash_passive",
+		"name": "Spore Lash",
+		"image": 13,
+		"effects": [
+			{
+				"effect": "on_attack_cast",
+				"value": "arendeth_arborborn_thornlash",
+				"secondary_value": 0.15
+			}
+		],
+		"description": "15% chance on attack to cast Thornlash."
+	},
+	{
+		"id": "arendeth_arborborn_predators_patience",
+		"name": "Predator's Patience",
+		"image": 14,
+		"effects": [
+			{
+				"effect": "bonus_attack",
+				"value": 0.06
+			}
+		],
+		"description": "6% chance for an extra attack."
+	},
+	{
+		"id": "arendeth_arborborn_verdant_fury",
+		"name": "Verdant Fury",
+		"image": 15,
+		"effects": [
+			{
+				"effect": "damage_percent",
+				"value": "poison",
+				"secondary_value": 0.1
+			}
+		],
+		"description": "+10% poison damage."
+	},
+	{
+		"id": "arendeth_arborborn_ancient_bark",
+		"name": "Ancient Bark",
+		"image": 16,
+		"effects": [
+			{
+				"effect": "armor_percent",
+				"value": 0.12
+			}
+		],
+		"description": "+12% armor."
+	},
+	{
+		"id": "arendeth_arborborn_feral_instinct",
+		"name": "Feral Instinct",
+		"image": 17,
+		"effects": [
+			{
+				"effect": "attack_speed",
+				"value": -0.05
+			}
+		],
+		"description": "You attack 0.05 turn quicker."
+	},
+	{
+		"id": "arendeth_arborborn_life_of_the_grove",
+		"name": "Life of the Grove",
+		"image": 18,
+		"effects": [
+			{
+				"effect": "heal_on_kill",
+				"value": 0.03
+			}
+		],
+		"description": "Heal 3% of your health when you kill something."
+	},
+	{
+		"id": "arendeth_arborborn_verdant_apex",
+		"name": "Verdant Apex",
+		"image": 19,
+		"effects": [
+			{
+				"effect": "health_bonus_percent",
+				"value": 0.1
+			},
+			{
+				"effect": "damage_percent",
+				"value": "physical",
+				"secondary_value": 0.08
+			},
+			{
+				"effect": "regeneration",
+				"value": 3
+			}
+		],
+		"description": "+10% health, +8% physical damage and +3 regeneration. The grove has chosen you."
+	}
+]

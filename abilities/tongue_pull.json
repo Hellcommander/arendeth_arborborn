@@ -1,0 +1,28 @@
+{
+	"id": "arendeth_arborborn_Tongue_Pull",
+	"name": "Tongue Pull",
+	"description": "Lash out with a sticky tongue for ::damage ::damage_type damage and drag the target to you.",
+	"target": "actor",
+	"range": 6,
+	"effects": {
+		"damage": [
+			2,
+			4
+		],
+		"damage_type": "physical",
+		"pull_target": 4,
+		"damage_weapon": 1.06,
+		"ability_can_crit": 1,
+		"magic_power_damage": 0.67
+	},
+	"animation": "34",
+	"cost": {
+		"health": 0,
+		"stamina": 0
+	},
+	"cast_time": 0.5,
+	"cooldown": 8.0,
+	"skill": "arendeth_arborborn",
+	"duration": 0.0,
+	"image": 59
+}

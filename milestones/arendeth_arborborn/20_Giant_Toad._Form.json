@@ -1,0 +1,16 @@
+{
+	"id": "arendeth_arborborn_Shift_Giant_Toad",
+	"name": "Giant Toad Form",
+	"requirements": {
+		"milestones": [],
+		"skill": 20
+	},
+	"rewards": [
+		{
+			"ability": "arendeth_arborborn_Shift_Giant_Toad"
+		}
+	],
+	"skill_id": "arendeth_arborborn",
+	"steps": [],
+	"steps_type": 0
+}

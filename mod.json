@@ -1,0 +1,13 @@
+{
+	"author": "Arendeth",
+	"description": "Arborborn: wild druidic nature magic. Learn plant, physical and toxic spells from Dark Druid tomes, then perform the Arborborn Ritual at a Heartwood Altar to abandon your race for living wood and unlock the shapeshift forms. Implemented with the aid of ai based tools especially the graphics.",
+	"game_required": "0.10.0",
+	"icon": "icon.png",
+	"mods_required": [
+		"core_2"
+	],
+	"name": "Arborborn",
+	"steam_publish_id": 3821942409,
+	"thumbnail": "thumbnail.png",
+	"version": "0.4.0"
+}

@@ -1,0 +1,30 @@
+{
+	"id": "arendeth_arborborn_maul",
+	"name": "Maul",
+	"description": "A savage swipe for ::damage ::damage_type damage, bleeding and a shove that exposes the target.",
+	"target": "actor",
+	"range": 1,
+	"effects": {
+		"damage": [
+			3,
+			5
+		],
+		"damage_type": "physical",
+		"bleed": 4,
+		"knockback": 1,
+		"vulnerable": 1,
+		"damage_weapon": 0.92,
+		"ability_can_crit": 1,
+		"magic_power_damage": 0.67
+	},
+	"animation": "34",
+	"cost": {
+		"health": 0,
+		"stamina": 0
+	},
+	"cast_time": 0.5,
+	"cooldown": 8.0,
+	"skill": "arendeth_arborborn",
+	"duration": 0.0,
+	"image": 41
+}

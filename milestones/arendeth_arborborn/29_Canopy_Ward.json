@@ -1,0 +1,16 @@
+{
+	"id": "arendeth_arborborn_canopy_ward",
+	"name": "Canopy Ward",
+	"requirements": {
+		"milestones": [],
+		"skill": 29
+	},
+	"rewards": [
+		{
+			"passive": "arendeth_arborborn_canopy_ward"
+		}
+	],
+	"skill_id": "arendeth_arborborn",
+	"steps": [],
+	"steps_type": 0
+}

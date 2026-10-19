@@ -1,0 +1,23 @@
+{
+	"id": "arendeth_arborborn_Trumpet",
+	"name": "Trumpet",
+	"description": "A deafening blast that stuns and frightens everything nearby.",
+	"target": "aoe_tile",
+	"range": 3,
+	"effects": {
+		"aoe_range": 4,
+		"aoe_shape": 1,
+		"stun": 1,
+		"fear": 1
+	},
+	"animation": "34",
+	"cost": {
+		"health": 0,
+		"stamina": 0
+	},
+	"cast_time": 0.5,
+	"cooldown": 16.0,
+	"skill": "arendeth_arborborn",
+	"duration": 0.0,
+	"image": 62
+}

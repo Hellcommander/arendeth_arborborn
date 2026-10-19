@@ -1,0 +1,97 @@
+{
+	"ability_user": [
+		"arendeth_arborborn_wyrm_slam"
+	],
+	"armor": {
+		"acid": 999,
+		"poison": 999,
+		"fire": 15,
+		"frost": 10,
+		"death": 10,
+		"electricity": 5,
+		"holy": 0,
+		"physical": 8,
+		"parry": 2,
+		"thorns": 0
+	},
+	"artificial_intelligence": {
+		"allies": [
+			"5"
+		],
+		"allow_production": [],
+		"behaviors": [],
+		"enemies": []
+	},
+	"components": [
+		"actor",
+		"armor",
+		"artificial_intelligence",
+		"collidable",
+		"experience_gainer",
+		"glyph",
+		"health",
+		"minimap_pixel",
+		"moveable",
+		"name",
+		"position_2d",
+		"sight",
+		"stamina",
+		"statistics",
+		"tags"
+	],
+	"corpse": [],
+	"description": "A wingless, serpentine wyrm cloaked in vibrant fungal caps and mycelial tendrils.",
+	"experience_gainer": {
+		"exp": 0,
+		"level": 50
+	},
+"glyph": {
+  "frames": [
+    {
+      "index": 5,
+      "color": [255,255,255],
+      "delay": 20
+    },
+    {
+      "index": 6,
+      "color": [255,255,255],
+      "delay": 20
+    }
+  ],
+  "random_frame_start": true
+},
+"health": 800,
+"id": "arendeth_arborborn_Dragonic_Mush_Dragon_Torso",
+"minimap_pixel": [
+	149,
+	165,
+	101
+],
+"moveable": {
+	"speed": 0.699999988079071
+},
+"name": "Dragonic Mush Dragon Torso",
+"sight": {
+	"ignore_infra_penalty": true,
+	"infravision": true,
+	"range": 12,
+	"threesixty": true
+},
+"stamina": {
+	"fatigue": 100,
+	"stamina": 100,
+	"stamina_regen": 0.0
+},
+"statistics": {
+    "dexterity": [25, 35],
+    "endurance": [35, 45],
+    "intelligence": [40, 50],
+    "magic_power": 35,
+    "strength": [25, 35],
+    "willpower": [35, 45]
+},
+"tags": [
+	"38",
+	"5"
+]
+}

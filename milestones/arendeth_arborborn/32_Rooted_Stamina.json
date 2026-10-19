@@ -1,0 +1,16 @@
+{
+	"id": "arendeth_arborborn_rooted_stamina",
+	"name": "Rooted Stamina",
+	"requirements": {
+		"milestones": [],
+		"skill": 32
+	},
+	"rewards": [
+		{
+			"passive": "arendeth_arborborn_rooted_stamina"
+		}
+	],
+	"skill_id": "arendeth_arborborn",
+	"steps": [],
+	"steps_type": 0
+}

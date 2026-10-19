@@ -1,0 +1,30 @@
+{
+	"id": "arendeth_arborborn_ceiling_drop",
+	"name": "Ceiling Drop",
+	"description": "Drop from above for ::damage ::damage_type damage, stunning and exposing the target.",
+	"target": "actor",
+	"range": 6,
+	"effects": {
+		"damage": [
+			4,
+			6
+		],
+		"damage_type": "physical",
+		"lunge": 5,
+		"stun": 1,
+		"vulnerable": 1,
+		"damage_weapon": 0.97,
+		"ability_can_crit": 1,
+		"magic_power_damage": 0.73
+	},
+	"animation": "34",
+	"cost": {
+		"health": 0,
+		"stamina": 0
+	},
+	"cast_time": 0.5,
+	"cooldown": 12.0,
+	"skill": "arendeth_arborborn",
+	"duration": 0.0,
+	"image": 31
+}

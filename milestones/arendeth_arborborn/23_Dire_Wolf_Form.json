@@ -1,0 +1,16 @@
+{
+	"id": "arendeth_arborborn_Shift_Dire_Wolf",
+	"name": "Dire Wolf",
+	"requirements": {
+		"milestones": [],
+		"skill": 23
+	},
+	"rewards": [
+		{
+			"ability": "arendeth_arborborn_Shift_Dire_Wolf"
+		}
+	],
+	"skill_id": "arendeth_arborborn",
+	"steps": [],
+	"steps_type": 0
+}

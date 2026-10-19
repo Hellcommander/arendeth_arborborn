@@ -1,0 +1,30 @@
+{
+	"id": "arendeth_arborborn_thorn_barrage",
+	"name": "Thorn Barrage",
+	"description": "Volley of thorns for ::damage ::damage_type damage that pierces and chains to a second target.",
+	"target": "actor",
+	"range": 7,
+	"effects": {
+		"damage": [
+			3,
+			6
+		],
+		"damage_type": "poison",
+		"pierce": 1,
+		"chain": 2
+	},
+	"animation": "34",
+	"cost": {
+		"health": 0,
+		"stamina": 4
+	},
+	"cast_time": 0.5,
+	"cooldown": 6.0,
+	"skill": "arendeth_arborborn",
+	"duration": 0.0,
+	"image": 57,
+	"slots": {
+		"offensive": 2,
+		"utility": 1
+	}
+}

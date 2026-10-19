@@ -1,0 +1,14 @@
+{
+	"id": "arendeth_arborborn_Death_Roll",
+	"innate": true,
+	"name": "Death Roll",
+	"requirements": {},
+	"rewards": [
+		{
+			"ability": "arendeth_arborborn_Death_Roll"
+		}
+	],
+	"skill_id": "arendeth_arborborn",
+	"steps": [],
+	"steps_type": 0
+}

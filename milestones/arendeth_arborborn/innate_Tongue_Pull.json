@@ -1,0 +1,14 @@
+{
+	"id": "arendeth_arborborn_Tongue_Pull",
+	"innate": true,
+	"name": "Tongue Pull",
+	"requirements": {},
+	"rewards": [
+		{
+			"ability": "arendeth_arborborn_Tongue_Pull"
+		}
+	],
+	"skill_id": "arendeth_arborborn",
+	"steps": [],
+	"steps_type": 0
+}

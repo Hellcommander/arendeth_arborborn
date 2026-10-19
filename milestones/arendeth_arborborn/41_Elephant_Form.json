@@ -1,0 +1,16 @@
+{
+	"id": "arendeth_arborborn_Shift_Elephant",
+	"name": "Elephant Form",
+	"requirements": {
+		"milestones": [],
+		"skill": 41
+	},
+	"rewards": [
+		{
+			"ability": "arendeth_arborborn_Shift_Elephant"
+		}
+	],
+	"skill_id": "arendeth_arborborn",
+	"steps": [],
+	"steps_type": 0
+}

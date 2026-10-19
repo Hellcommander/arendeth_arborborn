@@ -1,0 +1,31 @@
+{
+	"id": "arendeth_arborborn_hop_slam",
+	"name": "Hop Slam",
+	"description": "Leap and slam down for ::damage ::damage_type damage in an area, knocking enemies back.",
+	"target": "aoe_tile",
+	"range": 4,
+	"effects": {
+		"damage": [
+			2,
+			4
+		],
+		"damage_type": "physical",
+		"lunge": 3,
+		"aoe_range": 2,
+		"aoe_shape": 1,
+		"knockback": 1,
+		"damage_weapon": 1.04,
+		"ability_can_crit": 1,
+		"magic_power_damage": 0.66
+	},
+	"animation": "34",
+	"cost": {
+		"health": 0,
+		"stamina": 0
+	},
+	"cast_time": 0.5,
+	"cooldown": 10.0,
+	"skill": "arendeth_arborborn",
+	"duration": 0.0,
+	"image": 38
+}

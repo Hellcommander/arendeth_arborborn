@@ -1,0 +1,21 @@
+{
+	"animation": "34",
+	"cast_time": 1.0,
+	"cooldown": 40.0,
+	"cost": {
+		"health": 0,
+		"stamina": 10
+	},
+	"description": "Take the shape of a tiny dragon: immune to fire and spitting embers. Lasts 45 turns. Unlocks at Arborborn level 30. Requires the Arborborn body.",
+	"duration": 45.0,
+	"effects": {},
+	"effects_keys": {
+		"transform": "arendeth_arborborn_Form_Tiny_Dragon"
+	},
+	"id": "arendeth_arborborn_Shift_Tiny_Dragon",
+	"image": 29,
+	"name": "Tiny Dragon Form",
+	"range": 0,
+	"skill": "arendeth_arborborn",
+	"target": "actor"
+}

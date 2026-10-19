@@ -1,0 +1,16 @@
+{
+	"id": "arendeth_arborborn_thorn_mantle",
+	"name": "Thorn Mantle",
+	"requirements": {
+		"milestones": [],
+		"skill": 18
+	},
+	"rewards": [
+		{
+			"amplifier": "arendeth_arborborn_thorn_mantle"
+		}
+	],
+	"skill_id": "arendeth_arborborn",
+	"steps": [],
+	"steps_type": 0
+}

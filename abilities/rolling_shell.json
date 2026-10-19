@@ -1,0 +1,32 @@
+{
+	"id": "arendeth_arborborn_rolling_shell",
+	"name": "Rolling Shell",
+	"description": "Roll over enemies for ::damage ::damage_type damage, a stun and a long knockback.",
+	"target": "actor",
+	"range": 7,
+	"effects": {
+		"damage": [
+			4,
+			6
+		],
+		"damage_type": "physical",
+		"charge": 6,
+		"aoe_range": 1,
+		"aoe_shape": 1,
+		"knockback": 3,
+		"stun": 1,
+		"damage_weapon": 0.42,
+		"ability_can_crit": 1,
+		"magic_power_damage": 0.73
+	},
+	"animation": "34",
+	"cost": {
+		"health": 0,
+		"stamina": 0
+	},
+	"cast_time": 0.5,
+	"cooldown": 14.0,
+	"skill": "arendeth_arborborn",
+	"duration": 0.0,
+	"image": 47
+}

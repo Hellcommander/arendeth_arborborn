@@ -1,0 +1,16 @@
+{
+	"id": "arendeth_arborborn_verdant_apex",
+	"name": "Verdant Apex",
+	"requirements": {
+		"milestones": [],
+		"skill": 50
+	},
+	"rewards": [
+		{
+			"passive": "arendeth_arborborn_verdant_apex"
+		}
+	],
+	"skill_id": "arendeth_arborborn",
+	"steps": [],
+	"steps_type": 0
+}

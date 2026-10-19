@@ -1,0 +1,22 @@
+{
+	"animation": "130",
+	"cast_time": 0.30000001192092896,
+	"cooldown": 30.0,
+	"cost": {
+		"health": 10,
+		"stamina": 0
+	},
+	"description": "Creates a heartwood seed that lasts for 120 turns of time that can be used to advance the potential in arborborn skill.",
+	"duration": 0.0,
+	"effects": {
+		"summon_count": 1
+	},
+	"effects_keys": {
+		"summon": "arendeth_arborborn_Heartwood_Seed"
+	},
+	"id": "arendeth_arborborn_Extract_Heartwood_Seed",
+	"name": "Extract Heartwood Seed",
+	"range": 0,
+	"skill": "arendeth_arborborn",
+	"target": "self"
+}

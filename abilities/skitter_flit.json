@@ -1,0 +1,20 @@
+{
+	"id": "arendeth_arborborn_skitter_flit",
+	"name": "Skitter Flit",
+	"description": "Dart away from danger.",
+	"target": "self",
+	"range": 0,
+	"effects": {
+		"rollback": 4
+	},
+	"animation": "34",
+	"cost": {
+		"health": 0,
+		"stamina": 0
+	},
+	"cast_time": 0.5,
+	"cooldown": 12.0,
+	"skill": "arendeth_arborborn",
+	"duration": 0.0,
+	"image": 51
+}

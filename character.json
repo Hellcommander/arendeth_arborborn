@@ -1,0 +1,175 @@
+{
+	"production_actions": [
+		{
+			"animation": "core_2_Become_Vampire",
+			"askey": -1,
+			"description": "Become Arborborn: forsake your race, let the sap take you, and grow into living wood. This cannot be undone.\n\nIt may only be used at a Heartwood Altar with 100 units of sap.",
+			"force_single_item": true,
+			"id": "arendeth_become_arborborn",
+			"image": 92,
+			"key": "",
+			"name": "Arborborn Ritual Tier 1",
+			"required_tool": -1,
+			"require_unlock": false,
+			"restrict_default": true,
+			"require_liquid": {
+				"amount": 100,
+				"type": 12
+			},
+			"sound": "data/mods/core_2/assets/sfx/inventory/drop_other_1.ogg",
+			"time_statistic_multiplier": 0.1,
+			"time_statistic_scale": 4,
+			"time_weight_scale": 0,
+			"replace_entity": "Arborborn_Player"
+		},
+				{
+			"animation": "core_2_Become_Vampire",
+			"askey": -1,
+			"description": "Become Arborborn: forsake your race, let the sap take you, and grow into living wood. This cannot be undone.\n\nIt may only be used at a Heartwood Altar with 100 units of sap.",
+			"force_single_item": true,
+			"id": "arendeth_become_arborborn_2",
+			"image": 92,
+			"key": "",
+			"name": "Arborborn Ritual Tier II",
+			"required_tool": -1,
+			"require_unlock": false,
+			"restrict_default": true,
+			"require_liquid": {
+				"amount": 100,
+				"type": 12
+			},
+			"sound": "data/mods/core_2/assets/sfx/inventory/drop_other_1.ogg",
+			"time_statistic_multiplier": 0.1,
+			"time_statistic_scale": 4,
+			"time_weight_scale": 0,
+			"replace_entity": "Arborborn_Player_2"
+		}
+	],
+	{
+			"animation": "core_2_Become_Vampire",
+			"askey": -1,
+			"description": "Become Arborborn: forsake your race, let the sap take you, and grow into living wood. This cannot be undone.\n\nIt may only be used at a Heartwood Altar with 100 units of sap.",
+			"force_single_item": true,
+			"id": "arendeth_become_arborborn_3",
+			"image": 92,
+			"key": "",
+			"name": "Arborborn Ritual Tier III",
+			"required_tool": -1,
+			"require_unlock": false,
+			"restrict_default": true,
+			"require_liquid": {
+				"amount": 100,
+				"type": 12
+			},
+			"sound": "data/mods/core_2/assets/sfx/inventory/drop_other_1.ogg",
+			"time_statistic_multiplier": 0.1,
+			"time_statistic_scale": 4,
+			"time_weight_scale": 0,
+			"replace_entity": "Arborborn_Player_3"
+		}
+	],
+		{
+			"animation": "core_2_Become_Vampire",
+			"askey": -1,
+			"description": "Become Arborborn: forsake your race, let the sap take you, and grow into living wood. This cannot be undone.\n\nIt may only be used at a Heartwood Altar with 100 units of sap.",
+			"force_single_item": true,
+			"id": "arendeth_become_arborborn_4",
+			"image": 92,
+			"key": "",
+			"name": "Arborborn Ritual Tier IV",
+			"required_tool": -1,
+			"require_unlock": false,
+			"restrict_default": true,
+			"require_liquid": {
+				"amount": 100,
+				"type": 12
+			},
+			"sound": "data/mods/core_2/assets/sfx/inventory/drop_other_1.ogg",
+			"time_statistic_multiplier": 0.1,
+			"time_statistic_scale": 4,
+			"time_weight_scale": 0,
+			"replace_entity": "Arborborn_Player_4"
+		}
+	]
+	{ 
+		"races": [ 
+			{
+				{
+					"id": "arendeth_arborborn_Arborborn",
+					"name": "Arborborn",
+					"playable": true,
+					"description": "Wild-grown people of living wood, awakened by druidic tomes rather than born to a hall or a hearth. Arborborn heal slowly from sunlight and soil and turn aside poison, but burn easily.\n\nStrength +2, Endurance +2, Willpower +1.",
+					"items": [],
+					"recipes": [],
+					"orphan_surname": "of the Woods",
+					"base_entities": {
+						"adult": "arendeth_arborborn_Arborborn_Body"
+					},
+					"ages": {
+						"adult": 18,
+						"child": 14,
+						"elder": 600
+					},
+					"crimes": {
+						"assault": 30,
+						"forbidden": -1,
+						"murder": 180,
+						"robbery": 20,
+						"stealing": 15,
+						"vandalism": 120
+					},
+							"female": "npc/names/arendeth_arborborn_female.txt",
+							"male": "npc/names/arendeth_arborborn_male.txt",
+							"settlements": "npc/settlements/arendeth_arborborn_settlements.json",
+							"states": "npc/states/arendeth_arborborn_.json",
+							"surnames": "npc/surnames/arendeth_arborborn_.json"
+					"statistics": {
+						"strength": 2,
+						"endurance": 2,
+						"willpower": 1
+					},
+					"passives": [
+						"arendeth_arborborn_bark_body",
+						"arendeth_arborborn_rooted_vitality"
+					],
+				"settlement": {
+				"aggression_default": false,
+				"aggression_per_race": {
+					"arendeth_arborborn_Arborborn": false
+				},
+				"birth_cost": {
+					"amount": 40,
+					"max_population": 100,
+					"resource_type": 6
+				},
+				"buyout": false,
+				"road": false,
+				"caravan_image": 134,
+				"center_id": "204",
+				"collapse_on_leader_death": false,
+				"disabled_trading": false,
+				"max": 1,
+				"migration": false,
+				"single_family": true,
+				"start_spawn_rate": 0.0,
+				"war_causes": []
+				}
+					"tags": [
+						"9",
+						"arendeth_arborborn_ritual_tag",
+						"3"
+					]
+				},
+			}
+		}
+		"tags": [
+			{
+				"id": "arendeth_arborborn_ritual_tag",
+				"name": "arborborn",
+				"options": [
+					"ritual_birth",
+					"player_tag"
+				]
+			}
+		]
+	}	

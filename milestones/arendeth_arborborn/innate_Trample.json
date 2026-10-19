@@ -1,0 +1,14 @@
+{
+	"id": "arendeth_arborborn_Trample",
+	"innate": true,
+	"name": "Trample",
+	"requirements": {},
+	"rewards": [
+		{
+			"ability": "arendeth_arborborn_Trample"
+		}
+	],
+	"skill_id": "arendeth_arborborn",
+	"steps": [],
+	"steps_type": 0
+}

@@ -1,0 +1,21 @@
+{
+	"animation": "34",
+	"cast_time": 1.0,
+	"cooldown": 60.0,
+	"cost": {
+		"health": 0,
+		"stamina": 20
+	},
+	"description": "Become a Cursed Living Tree: rooted, thorned, and calling the forest to your side. Lasts 60 turns.",
+	"duration": 60.0,
+	"effects": {},
+	"effects_keys": {
+		"transform": "arendeth_arborborn_Form_Living_Tree"
+	},
+	"id": "arendeth_arborborn_Shift_Living_Tree",
+	"image": 26,
+	"name": "Living Tree Form",
+	"range": 0,
+	"skill": "arendeth_arborborn",
+	"target": "actor"
+}

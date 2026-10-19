@@ -1,0 +1,26 @@
+{
+	"animation": "core_2_Ram",
+	"cast_time": 0.0,
+	"cooldown": 0.0,
+	"cost": {
+		"health": 0,
+		"stamina": 0
+	},
+	"description": "",
+	"duration": 0.0,
+	"effects": {
+		"ability_can_crit": 1,
+		"bleed_per_damage": 1.0,
+		"charge": 12,
+		"critical_hit_chance": 0.15000000596046448,
+		"knockback": 1,
+		"lunge": 1,
+		"pierce": 1
+	},
+	"id": "arendeth_arborborn_Piercing_Charge",
+	"image": 12,
+	"name": "Piercing Charge",
+	"range": 0,
+	"skill": "arendeth_arborborn",
+	"target": "actor"
+}

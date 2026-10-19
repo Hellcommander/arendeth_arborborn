@@ -1,0 +1,33 @@
+{
+	"animation": "34",
+	"cast_time": 0.9,
+	"cooldown": 12.0,
+	"cost": {
+		"health": 0,
+		"stamina": 7
+	},
+	"description": "A pulse of sap-heavy force: ::damage ::damage_type damage in an area, pulling enemies inward and stunning them briefly. Scales with Magic Power.",
+	"duration": 0.0,
+	"effects": {
+		"damage": [
+			8,
+			14
+		],
+		"damage_type": "physical",
+		"magic_power_damage": 0.9,
+		"aoe_range": 2,
+		"aoe_shape": 1,
+		"pull_target": 3,
+		"stun": 1
+	},
+	"id": "arendeth_arborborn_heartwood_pulse",
+	"image": 36,
+	"name": "Heartwood Pulse",
+	"range": 6,
+	"skill": "arendeth_arborborn",
+	"target": "aoe_tile",
+	"slots": {
+		"offensive": 2,
+		"utility": 1
+	}
+}

@@ -1,0 +1,25 @@
+{
+    "id": "arendeth_arborborn_wyrm_slam",
+    "name": "Wyrm Slam",
+    "description": "Crash your massive body into the ground for ::damage ::damage_type damage in an area, stunning and shoving enemies.",
+    "target": "aoe_tile",
+    "range": 1,
+    "effects": {
+        "damage": [18,30],
+        "damage_type": "physical",
+        "aoe_range": 2,
+        "aoe_shape": 1,
+        "stun": 1,
+        "knockback": 1
+    },
+    "animation": "34",
+    "cost": {
+        "health": 0,
+        "stamina": 10
+    },
+    "cast_time": 0.5,
+    "cooldown": 10.0,
+    "skill": "arendeth_arborborn",
+    "duration": 0.0,
+    "image": 46
+}

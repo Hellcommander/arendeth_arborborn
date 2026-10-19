@@ -1,0 +1,208 @@
+[
+	{
+		"id": "arendeth_arborborn_barbed_tips",
+		"name": "Barbed Tips",
+		"type": "offensive",
+		"image": 0,
+		"bonuses": [
+			{
+				"effect": "bleed",
+				"value": 2
+			}
+		],
+		"description": "+2 bleed. Thorns on the tip of every strike."
+	},
+	{
+		"id": "arendeth_arborborn_sap_coating",
+		"name": "Sap Coating",
+		"type": "offensive",
+		"image": 1,
+		"bonuses": [
+			{
+				"effect": "poison_effect",
+				"value": 1
+			}
+		],
+		"description": "+1 poison from a coat of bitter sap."
+	},
+	{
+		"id": "arendeth_arborborn_wide_bloom",
+		"name": "Wide Bloom",
+		"type": "utility",
+		"image": 2,
+		"bonuses": [
+			{
+				"effect": "aoe_range",
+				"value": 1
+			}
+		],
+		"description": "+1 area. The spell blossoms wider."
+	},
+	{
+		"id": "arendeth_arborborn_briar_lash",
+		"name": "Briar Lash",
+		"type": "offensive",
+		"image": 3,
+		"bonuses": [
+			{
+				"effect": "chain",
+				"value": 1
+			}
+		],
+		"description": "The ability chains to one more nearby target along trailing briars."
+	},
+	{
+		"id": "arendeth_arborborn_heavy_roots",
+		"name": "Heavy Roots",
+		"type": "offensive",
+		"image": 4,
+		"bonuses": [
+			{
+				"effect": "immobilize",
+				"value": 1
+			}
+		],
+		"description": "+1 immobilize. Roots hold the target in place."
+	},
+	{
+		"id": "arendeth_arborborn_spore_cloud",
+		"name": "Spore Cloud",
+		"type": "utility",
+		"image": 5,
+		"bonuses": [
+			{
+				"effect": "stacker",
+				"value": "arendeth_arborborn_spores",
+				"secondary_value": 1
+			}
+		],
+		"description": "Adds a stack of Spores to the target."
+	},
+	{
+		"id": "arendeth_arborborn_thorn_mantle",
+		"name": "Thorn Mantle",
+		"type": "utility",
+		"image": 6,
+		"bonuses": [
+			{
+				"effect": "thorns",
+				"value": 3
+			}
+		],
+		"description": "+3 thorns. Briars sprout along your arms as you cast."
+	},
+	{
+		"id": "arendeth_arborborn_rending_claws",
+		"name": "Rending Claws",
+		"type": "offensive",
+		"image": 7,
+		"bonuses": [
+			{
+				"effect": "bleed",
+				"value": 3
+			}
+		],
+		"description": "+3 bleed. Claws tear deep."
+	},
+	{
+		"id": "arendeth_arborborn_pack_hunter",
+		"name": "Pack Hunter",
+		"type": "offensive",
+		"image": 8,
+		"bonuses": [
+			{
+				"effect": "dmg_per_companion",
+				"value": 0.1
+			}
+		],
+		"description": "+10% damage for every companion in your party."
+	},
+	{
+		"id": "arendeth_arborborn_rotting_bite",
+		"name": "Rotting Bite",
+		"type": "offensive",
+		"image": 9,
+		"bonuses": [
+			{
+				"effect": "vulnerable",
+				"value": 1
+			},
+			{
+				"effect": "poison_effect",
+				"value": 1
+			}
+		],
+		"description": "Leaves the target vulnerable and poisoned."
+	},
+	{
+		"id": "arendeth_arborborn_primal_surge",
+		"name": "Primal Surge",
+		"type": "utility",
+		"image": 10,
+		"bonuses": [
+			{
+				"effect": "stacker",
+				"value": "arendeth_arborborn_primal_fury",
+				"secondary_value": 1
+			}
+		],
+		"description": "Adds a stack of Primal Fury to you."
+	},
+	{
+		"id": "arendeth_arborborn_hibernation",
+		"name": "Hibernation",
+		"type": "utility",
+		"image": 11,
+		"bonuses": [
+			{
+				"effect": "reduce_random_cooldown",
+				"value": 1
+			}
+		],
+		"description": "Reduces one of your abilities' cooldowns by 1 at random."
+	},
+	{
+		"id": "arendeth_arborborn_hunters_mark",
+		"name": "Hunter's Mark",
+		"type": "offensive",
+		"image": 12,
+		"bonuses": [
+			{
+				"effect": "damage_on_missing_health",
+				"value": 0.1
+			}
+		],
+		"description": "Up to +10% damage against wounded prey."
+	},
+	{
+		"id": "arendeth_arborborn_wild_growth",
+		"name": "Wild Growth",
+		"type": "utility",
+		"image": 13,
+		"bonuses": [
+			{
+				"effect": "aoe_range",
+				"value": 1
+			},
+			{
+				"effect": "knockback",
+				"value": 1
+			}
+		],
+		"description": "+1 area and +1 knockback as the forest surges outward."
+	},
+	{
+		"id": "arendeth_arborborn_apex_predator",
+		"name": "Apex Predator",
+		"type": "offensive",
+		"image": 14,
+		"bonuses": [
+			{
+				"effect": "damage_bonus_percent",
+				"value": 0.25
+			}
+		],
+		"description": "+25% damage and +5 cooldown. The apex hunts without mercy.",
+		"cooldown": 5
+	}
+]

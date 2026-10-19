@@ -1,0 +1,21 @@
+{
+	"id": "arendeth_arborborn_hoard_snarl",
+	"name": "Hoard Snarl",
+	"description": "A furious, tiny snarl that forces an enemy to attack you.",
+	"target": "actor",
+	"range": 5,
+	"effects": {
+		"challenge": 1,
+		"ignore_party": 1
+	},
+	"animation": "34",
+	"cost": {
+		"health": 0,
+		"stamina": 0
+	},
+	"cast_time": 0.5,
+	"cooldown": 12.0,
+	"skill": "arendeth_arborborn",
+	"duration": 0.0,
+	"image": 37
+}

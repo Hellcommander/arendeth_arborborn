@@ -1,0 +1,16 @@
+{
+	"id": "arendeth_arborborn_primal_surge",
+	"name": "Primal Surge",
+	"requirements": {
+		"milestones": [],
+		"skill": 29
+	},
+	"rewards": [
+		{
+			"amplifier": "arendeth_arborborn_primal_surge"
+		}
+	],
+	"skill_id": "arendeth_arborborn",
+	"steps": [],
+	"steps_type": 0
+}

@@ -1,0 +1,16 @@
+{
+	"id": "arendeth_arborborn_bark_slam",
+	"name": "Bark Slam",
+	"requirements": {
+		"milestones": [],
+		"skill": 17
+	},
+	"rewards": [
+		{
+			"ability": "arendeth_arborborn_bark_slam"
+		}
+	],
+	"skill_id": "arendeth_arborborn",
+	"steps": [],
+	"steps_type": 0
+}

@@ -1,0 +1,16 @@
+{
+	"id": "arendeth_arborborn_mycelial_surge",
+	"name": "Mycelial Surge",
+	"requirements": {
+		"milestones": [],
+		"skill": 45
+	},
+	"rewards": [
+		{
+			"ability": "arendeth_arborborn_mycelial_surge"
+		}
+	],
+	"skill_id": "arendeth_arborborn",
+	"steps": [],
+	"steps_type": 0
+}

@@ -1,0 +1,16 @@
+{
+	"id": "arendeth_arborborn_thornhide",
+	"name": "Thornhide",
+	"requirements": {
+		"milestones": [],
+		"skill": 16
+	},
+	"rewards": [
+		{
+			"passive": "arendeth_arborborn_thornhide"
+		}
+	],
+	"skill_id": "arendeth_arborborn",
+	"steps": [],
+	"steps_type": 0
+}

@@ -1,0 +1,16 @@
+{
+	"id": "arendeth_arborborn_pack_hunter",
+	"name": "Pack Hunter",
+	"requirements": {
+		"milestones": [],
+		"skill": 24
+	},
+	"rewards": [
+		{
+			"amplifier": "arendeth_arborborn_pack_hunter"
+		}
+	],
+	"skill_id": "arendeth_arborborn",
+	"steps": [],
+	"steps_type": 0
+}

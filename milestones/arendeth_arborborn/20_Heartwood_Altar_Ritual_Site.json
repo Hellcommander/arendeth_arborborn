@@ -1,0 +1,16 @@
+{
+	"id": "arendeth_arborborn_Heartwood_Altar_recipe",
+	"name": "Heartwood Altar (Ritual Site)",
+	"requirements": {
+		"milestones": [],
+		"skill": 20
+	},
+	"rewards": [
+		{
+			"recipe": "arendeth_arborborn_Heartwood_Altar"
+		}
+	],
+	"skill_id": "arendeth_arborborn",
+	"steps": [],
+	"steps_type": 0
+}

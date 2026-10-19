@@ -1,0 +1,21 @@
+{
+	"animation": "34",
+	"cast_time": 1.0,
+	"cooldown": 30.0,
+	"cost": {
+		"health": 0,
+		"stamina": 6
+	},
+	"description": "Take the shape of a bison: sturdy, quick to charge and hard to stop. Lasts 40 turns. Unlocks at Arborborn level 21. Requires the Arborborn body.",
+	"duration": 40.0,
+	"effects": {},
+	"effects_keys": {
+		"transform": "arendeth_arborborn_Form_Bison"
+	},
+	"id": "arendeth_arborborn_Shift_Bison",
+	"image": 1,
+	"name": "Bison Form",
+	"range": 0,
+	"skill": "arendeth_arborborn",
+	"target": "actor"
+}

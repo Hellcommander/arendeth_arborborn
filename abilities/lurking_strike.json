@@ -1,0 +1,29 @@
+{
+	"id": "arendeth_arborborn_lurking_strike",
+	"name": "Lurking Strike",
+	"description": "Burst from cover with a lunge for ::damage ::damage_type damage that leaves the target exposed.",
+	"target": "actor",
+	"range": 5,
+	"effects": {
+		"damage": [
+			3,
+			5
+		],
+		"damage_type": "physical",
+		"lunge": 4,
+		"vulnerable": 1,
+		"damage_weapon": 0.84,
+		"ability_can_crit": 1,
+		"magic_power_damage": 0.84
+	},
+	"animation": "34",
+	"cost": {
+		"health": 0,
+		"stamina": 0
+	},
+	"cast_time": 0.5,
+	"cooldown": 8.0,
+	"skill": "arendeth_arborborn",
+	"duration": 0.0,
+	"image": 40
+}

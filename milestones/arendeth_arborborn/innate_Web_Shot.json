@@ -1,0 +1,14 @@
+{
+	"id": "arendeth_arborborn_Web_Shot",
+	"innate": true,
+	"name": "Web Shot",
+	"requirements": {},
+	"rewards": [
+		{
+			"ability": "arendeth_arborborn_Web_Shot"
+		}
+	],
+	"skill_id": "arendeth_arborborn",
+	"steps": [],
+	"steps_type": 0
+}

@@ -1,0 +1,14 @@
+{
+	"id": "arendeth_arborborn_Wyrm_Coil",
+	"innate": true,
+	"name": "Wrym Coil",
+	"requirements": {},
+	"rewards": [
+		{
+			"ability": "arendeth_arborborn_Wyrm_Coil"
+		}
+	],
+	"skill_id": "arendeth_arborborn",
+	"steps": [],
+	"steps_type": 0
+}

@@ -1,0 +1,16 @@
+{
+	"id": "arendeth_arborborn_feral_instinct",
+	"name": "Feral Instinct",
+	"requirements": {
+		"milestones": [],
+		"skill": 46
+	},
+	"rewards": [
+		{
+			"passive": "arendeth_arborborn_feral_instinct"
+		}
+	],
+	"skill_id": "arendeth_arborborn",
+	"steps": [],
+	"steps_type": 0
+}

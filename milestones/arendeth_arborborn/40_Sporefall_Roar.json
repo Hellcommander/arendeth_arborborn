@@ -1,0 +1,16 @@
+{
+	"id": "arendeth_arborborn_sporefall_roar",
+	"name": "Sporefall Roar",
+	"requirements": {
+		"milestones": [],
+		"skill": 40
+	},
+	"rewards": [
+		{
+			"ability": "arendeth_arborborn_sporefall_roar"
+		}
+	],
+	"skill_id": "arendeth_arborborn",
+	"steps": [],
+	"steps_type": 0
+}

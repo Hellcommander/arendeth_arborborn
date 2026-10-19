@@ -1,0 +1,16 @@
+{
+	"id": "arendeth_arborborn_hibernation",
+	"name": "Hibernation",
+	"requirements": {
+		"milestones": [],
+		"skill": 33
+	},
+	"rewards": [
+		{
+			"amplifier": "arendeth_arborborn_hibernation"
+		}
+	],
+	"skill_id": "arendeth_arborborn",
+	"steps": [],
+	"steps_type": 0
+}

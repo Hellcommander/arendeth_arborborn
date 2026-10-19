@@ -1,0 +1,23 @@
+{
+	"id": "arendeth_arborborn_mushroom_feast",
+	"name": "Mushroom Feast",
+	"description": "Feed on your own fungal growth to recover health.",
+	"target": "self",
+	"range": 0,
+	"effects": {
+		"heal": [
+			150,
+			250
+		]
+	},
+	"animation": "34",
+	"cost": {
+		"health": 0,
+		"stamina": 0
+	},
+	"cast_time": 0.5,
+	"cooldown": 30.0,
+	"skill": "arendeth_arborborn",
+	"duration": 0.0,
+	"image": 42
+}

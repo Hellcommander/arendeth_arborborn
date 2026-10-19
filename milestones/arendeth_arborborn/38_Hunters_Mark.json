@@ -1,0 +1,16 @@
+{
+	"id": "arendeth_arborborn_hunters_mark",
+	"name": "Hunter's Mark",
+	"requirements": {
+		"milestones": [],
+		"skill": 38
+	},
+	"rewards": [
+		{
+			"amplifier": "arendeth_arborborn_hunters_mark"
+		}
+	],
+	"skill_id": "arendeth_arborborn",
+	"steps": [],
+	"steps_type": 0
+}

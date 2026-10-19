@@ -1,0 +1,21 @@
+{
+	"animation": "34",
+	"cast_time": 1.0,
+	"cooldown": 45.0,
+	"cost": {
+		"health": 0,
+		"stamina": 14
+	},
+	"description": "Take the shape of a giant spider: webs, venom and ambush from above. Lasts 50 turns. Unlocks at Arborborn level 40. Requires the Arborborn body.",
+	"duration": 50.0,
+	"effects": {},
+	"effects_keys": {
+		"transform": "arendeth_arborborn_Form_Giant_Spider"
+	},
+	"id": "arendeth_arborborn_Shift_Giant_Spider",
+	"image": 21,
+	"name": "Giant Spider Form",
+	"range": 0,
+	"skill": "arendeth_arborborn",
+	"target": "actor"
+}

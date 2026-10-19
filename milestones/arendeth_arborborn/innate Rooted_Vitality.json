@@ -1,0 +1,14 @@
+{
+	"id": "arendeth_arborborn_rooted_vitality",
+	"innate": true,
+	"name": "Rooted Vitality",
+	"requirements": {},
+	"rewards": [
+		{
+			"passive": "arendeth_arborborn_rooted_vitality"
+		}
+	],
+	"skill_id": "arendeth_arborborn",
+	"steps": [],
+	"steps_type": 0
+}
