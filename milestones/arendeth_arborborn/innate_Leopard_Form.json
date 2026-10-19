@@ -1,10 +1,8 @@
 {
 	"id": "arendeth_arborborn_Shift_Leopard",
+	"innate": true,
 	"name": "Leopard Form",
-	"requirements": {
-		"milestones": [],
-		"skill": 26
-	},
+	"requirements": {},
 	"rewards": [
 		{
 			"amplifier": "arendeth_arborborn_Shift_Leopard"

@@ -1,11 +1,11 @@
 {
-	"id": "arendeth_arborborn_Rebirth_Shift",
+	"id": "arendeth_arborborn_Hoard_Snarl",
 	"innate": true,
-	"name": "Rebirth Shift",
+	"name": "Hoard Snarl",
 	"requirements": {},
 	"rewards": [
 		{
-			"ability": "arendeth_arborborn_Rebirth_Shift"
+			"ability": "arendeth_arborborn_Hoard_Snarl"
 		}
 	],
 	"skill_id": "arendeth_arborborn",

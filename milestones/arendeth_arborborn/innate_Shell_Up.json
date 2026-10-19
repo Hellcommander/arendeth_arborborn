@@ -1,11 +1,11 @@
 {
-	"id": "arendeth_arborborn_Rebirth_Shift",
+	"id": "arendeth_arborborn_Shell_Up",
 	"innate": true,
-	"name": "Rebirth Shift",
+	"name": "Shell up",
 	"requirements": {},
 	"rewards": [
 		{
-			"ability": "arendeth_arborborn_Rebirth_Shift"
+			"ability": "arendeth_arborborn_Shell_Up"
 		}
 	],
 	"skill_id": "arendeth_arborborn",

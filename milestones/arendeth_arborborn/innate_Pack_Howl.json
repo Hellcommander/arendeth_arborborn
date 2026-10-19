@@ -1,0 +1,14 @@
+{
+	"id": "arendeth_arborborn_Stalk",
+	"innate": true,
+	"name": "Stalk",
+	"requirements": {},
+	"rewards": [
+		{
+			"ability": "arendeth_arborborn_Stalk"
+		}
+	],
+	"skill_id": "arendeth_arborborn",
+	"steps": [],
+	"steps_type": 0
+}

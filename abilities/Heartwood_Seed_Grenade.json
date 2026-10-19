@@ -1,0 +1,31 @@
+{
+	"animation": "core_2_Paralyzing_Bomb_Throw",
+	"cast_time": 0.800000011920929,
+	"cooldown": 20.0,
+	"cost": {
+		"health": 1,
+		"stamina": 5
+	},
+	"description": "Throw a Heartwood Seed at a location, dealing ::damage ::damage_type damage in an area. Deals additional revenge damage based on damage taken during the last 5 turns, inflicts poison, bleeding, and knockback, and ignores allies.",
+	"effects": {
+		"aoe_range": 4,
+		"aoe_shape": 1,
+		"bleed_per_damage": 2.0,
+		"damage": [
+			8,
+			16
+		],
+		"damage_type": "poison",
+		"ignore_party": 1,
+		"knockback": 2,
+		"magic_power_damage": 1.0,
+		"poison_effect": 8,
+		"revenge_counter": 1
+	},
+	"id": "arendeth_arborborn_Heartwood_Seed_Grenade",
+	"image": 459,
+	"name": "Heartwood Seed Grenade",
+	"range": 9,
+	"skill": "arendeth_arborborn",
+	"target": "aoe_target"
+}

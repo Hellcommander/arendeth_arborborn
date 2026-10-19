@@ -1,11 +1,11 @@
 {
-	"id": "arendeth_arborborn_Rebirth_Shift",
+	"id": "arendeth_arborborn_Lions_Roar",
 	"innate": true,
-	"name": "Rebirth Shift",
+	"name": "Lion's Roar",
 	"requirements": {},
 	"rewards": [
 		{
-			"ability": "arendeth_arborborn_Rebirth_Shift"
+			"ability": "arendeth_arborborn_Lions_Roar"
 		}
 	],
 	"skill_id": "arendeth_arborborn",

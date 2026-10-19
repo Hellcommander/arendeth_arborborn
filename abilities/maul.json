@@ -1,5 +1,5 @@
 {
-	"id": "arendeth_arborborn_maul",
+	"id": "arendeth_arborborn_Maul",
 	"name": "Maul",
 	"description": "A savage swipe for ::damage ::damage_type damage, bleeding and a shove that exposes the target.",
 	"target": "actor",

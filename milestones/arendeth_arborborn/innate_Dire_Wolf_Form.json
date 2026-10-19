@@ -1,10 +1,8 @@
 {
 	"id": "arendeth_arborborn_Shift_Dire_Wolf",
-	"name": "Dire Wolf",
-	"requirements": {
-		"milestones": [],
-		"skill": 23
-	},
+	"innate": true,
+	"name": "Dire Wolf Form",
+	"requirements": {},
 	"rewards": [
 		{
 			"ability": "arendeth_arborborn_Shift_Dire_Wolf"

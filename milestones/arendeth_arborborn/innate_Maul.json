@@ -1,11 +1,11 @@
 {
-	"id": "arendeth_arborborn_Rebirth_Shift",
+	"id": "arendeth_arborborn_Maul",
 	"innate": true,
-	"name": "Rebirth Shift",
+	"name": "Maul",
 	"requirements": {},
 	"rewards": [
 		{
-			"ability": "arendeth_arborborn_Rebirth_Shift"
+			"ability": "arendeth_arborborn_Maul"
 		}
 	],
 	"skill_id": "arendeth_arborborn",

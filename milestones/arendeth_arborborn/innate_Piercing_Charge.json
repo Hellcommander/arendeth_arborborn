@@ -1,0 +1,14 @@
+{
+	"id": "arendeth_arborborn_Piercing_Charge",
+	"innate": true,
+	"name": "Piercing Charge",
+	"requirements": {},
+	"rewards": [
+		{
+			"ability": "arendeth_arborborn_Piercing_Charge"
+		}
+	],
+	"skill_id": "arendeth_arborborn",
+	"steps": [],
+	"steps_type": 0
+}

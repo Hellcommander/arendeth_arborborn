@@ -1,11 +1,11 @@
 {
-	"id": "arendeth_arborborn_Rebirth_Shift",
+	"id": "arendeth_arborborn_Ceiling_Drop",
 	"innate": true,
-	"name": "Rebirth Shift",
+	"name": "Ceiling Drop",
 	"requirements": {},
 	"rewards": [
 		{
-			"ability": "arendeth_arborborn_Rebirth_Shift"
+			"ability": "arendeth_arborborn_Ceiling_Drop"
 		}
 	],
 	"skill_id": "arendeth_arborborn",

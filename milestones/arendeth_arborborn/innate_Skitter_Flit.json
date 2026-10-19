@@ -1,11 +1,11 @@
 {
-	"id": "arendeth_arborborn_Rebirth_Shift",
+	"id": "arendeth_arborborn_Skitter_Flit",
 	"innate": true,
-	"name": "Rebirth Shift",
+	"name": "Skitter Flit",
 	"requirements": {},
 	"rewards": [
 		{
-			"ability": "arendeth_arborborn_Rebirth_Shift"
+			"ability": "arendeth_arborborn_Skitter_Flit"
 		}
 	],
 	"skill_id": "arendeth_arborborn",

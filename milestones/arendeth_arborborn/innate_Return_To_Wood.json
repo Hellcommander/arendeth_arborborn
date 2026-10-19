@@ -1,11 +1,11 @@
 {
-	"id": "arendeth_arborborn_Rebirth_Shift",
+	"id": "arendeth_arborborn_Return_To_Wood",
 	"innate": true,
-	"name": "Rebirth Shift",
+	"name": "Return to Wood",
 	"requirements": {},
 	"rewards": [
 		{
-			"ability": "arendeth_arborborn_Rebirth_Shift"
+			"ability": "arendeth_arborborn_Return_To_Wood"
 		}
 	],
 	"skill_id": "arendeth_arborborn",

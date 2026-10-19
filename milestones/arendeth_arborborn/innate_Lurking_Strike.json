@@ -1,11 +1,11 @@
 {
-	"id": "arendeth_arborborn_Rebirth_Shift",
+	"id": "arendeth_arborborn_Lurking_Strike",
 	"innate": true,
-	"name": "Rebirth Shift",
+	"name": "Lurking Strike",
 	"requirements": {},
 	"rewards": [
 		{
-			"ability": "arendeth_arborborn_Rebirth_Shift"
+			"ability": "arendeth_arborborn_Lurking_Strike"
 		}
 	],
 	"skill_id": "arendeth_arborborn",

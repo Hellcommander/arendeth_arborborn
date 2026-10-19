@@ -1,7 +1,8 @@
 {
 	"ability_user": [
-		"arendeth_arborborn_stampede",
-		"arendeth_arborborn_rut"
+		"arendeth_arborborn_Stampede",
+		"arendeth_arborborn_rut",
+		"arendeth_arborborn_Piercing_Charge"
 	],
 	"armor": {
 		"acid": 0,

@@ -1,5 +1,5 @@
 {
-	"id": "arendeth_arborborn_hamstring",
+	"id": "arendeth_arborborn_Hamstring",
 	"name": "Hamstring",
 	"description": "A tearing bite for ::damage ::damage_type damage, bleeding and 2 Hobbled.",
 	"target": "actor",

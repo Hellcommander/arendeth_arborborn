@@ -1,5 +1,5 @@
 {
-	"id": "arendeth_arborborn_hop_slam",
+	"id": "arendeth_arborborn_Hop_Slam",
 	"name": "Hop Slam",
 	"description": "Leap and slam down for ::damage ::damage_type damage in an area, knocking enemies back.",
 	"target": "aoe_tile",

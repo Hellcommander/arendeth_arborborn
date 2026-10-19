@@ -1,0 +1,65 @@
+{
+	"category_id": 6,
+	"components": [
+		"collidable",
+		"craftable",
+		"glyph",
+		"height",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"producer"
+	],
+	"craftable": {
+		"backgrounds": [],
+		"biomes": [],
+		"magic_slots": 0,
+		"resource_types": [],
+		"resources": [
+			{
+				"amount": 3,
+				"id": "2006"
+			}
+		],
+		"time": 120,
+		"tools": []
+	},
+	"description": "A living stump grown into a low altar, hollowed at the top to hold sap. Craftable once you reach Arborborn level 20. Perform the Arborborn Ritual here with 100 units of sap. Disappears in 400 turns.",
+	"temporary": 400.0,
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 33
+			}
+		],
+		"random_frame_start": false
+	},
+	"height": 0,
+	"id": "arendeth_arborborn_Heartwood_Altar_Tier_3",
+	"minimap_pixel": [
+		120,
+		160,
+		80
+	],
+	"name": "Heartwood Altar Tier 3",
+		"products": {
+			"arendeth_become_arborborn_3": [
+				{
+					"amount": [
+						0,
+						0
+					],
+					"id": "",
+					"percent_chance": 0
+				}
+			]
+		},
+		"time": 60
+	}
+}

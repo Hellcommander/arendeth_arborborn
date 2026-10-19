@@ -8,7 +8,8 @@
 		"arendeth_arborborn_Shift_Lion",
 		"arendeth_arborborn_Shift_Elephant",
 		"arendeth_arborborn_Shift_Giant_Spider",
-		"arendeth_arborborn_Shift_Giant_Tortoise"
+		"arendeth_arborborn_Shift_Giant_Tortoise",
+		"arendeth_arborborn_Extract_Heartwood_Seed"
 	],
 	"armor": {
 		"acid": 0,

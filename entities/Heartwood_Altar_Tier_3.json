@@ -48,6 +48,7 @@
 		80
 	],
 	"name": "Heartwood Altar Tier 3",
+	"producer": {
 		"products": {
 			"arendeth_become_arborborn_3": [
 				{

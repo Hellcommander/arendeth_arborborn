@@ -1,11 +1,11 @@
 {
-	"id": "arendeth_arborborn_Rebirth_Shift",
+	"id": "arendeth_arborborn_Stalk",
 	"innate": true,
-	"name": "Rebirth Shift",
+	"name": "Stalk",
 	"requirements": {},
 	"rewards": [
 		{
-			"ability": "arendeth_arborborn_Rebirth_Shift"
+			"ability": "arendeth_arborborn_Stalk"
 		}
 	],
 	"skill_id": "arendeth_arborborn",

@@ -1,5 +1,5 @@
 {
-	"id": "arendeth_arborborn_rolling_shell",
+	"id": "arendeth_arborborn_Rolling_Shell",
 	"name": "Rolling Shell",
 	"description": "Roll over enemies for ::damage ::damage_type damage, a stun and a long knockback.",
 	"target": "actor",

@@ -1,5 +1,5 @@
 {
-	"id": "arendeth_arborborn_stampede",
+	"id": "arendeth_arborborn_Stampede",
 	"name": "Stampede",
 	"description": "Thunder forward in a charge, trampling the target for ::damage ::damage_type damage and hurling it back.",
 	"target": "actor",

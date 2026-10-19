@@ -1,5 +1,5 @@
 {
-	"id": "arendeth_arborborn_lurking_strike",
+	"id": "arendeth_arborborn_Lurking_Strike",
 	"name": "Lurking Strike",
 	"description": "Burst from cover with a lunge for ::damage ::damage_type damage that leaves the target exposed.",
 	"target": "actor",

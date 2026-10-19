@@ -1,5 +1,5 @@
 {
-    "id": "arendeth_arborborn_tail_sweep",
+    "id": "arendeth_arborborn_Tail_Sweep",
     "name": "Tail Sweep",
     "description": "Sweep your massive tail through nearby foes dealing ::damage ::damage_type damage and knocking them away.",
     "target": "aoe_tile",
