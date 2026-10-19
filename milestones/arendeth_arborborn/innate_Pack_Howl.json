@@ -1,11 +1,11 @@
 {
-	"id": "arendeth_arborborn_Stalk",
+	"id": "arendeth_arborborn_Pack_Howl",
 	"innate": true,
-	"name": "Stalk",
+	"name": "Pack Howl",
 	"requirements": {},
 	"rewards": [
 		{
-			"ability": "arendeth_arborborn_Stalk"
+			"ability": "arendeth_arborborn_Pack_Howl"
 		}
 	],
 	"skill_id": "",

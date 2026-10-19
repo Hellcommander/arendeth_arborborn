@@ -17,11 +17,10 @@
 		"thorns": 0
 	},
 	"artificial_intelligence": {
-		"allies": [],
+		"allies": [ "5"],
 		"allow_production": [],
 		"behaviors": [],
 		"enemies": [
-			"5"
 		]
 	},
 	"components": [
@@ -76,7 +75,7 @@
 		144,
 		108
 	],
-	"name": "Druidic Thorn Spitter",
+	"name": "Heartwood Thorn Spitter",
 	"sight": {
 		"ignore_infra_penalty": true,
 		"infravision": true,
