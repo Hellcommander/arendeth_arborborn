@@ -1,16 +1,15 @@
 {
 	"id": "arendeth_arborborn_Shift_Living_Tree",
+	"innate": true,
 	"name": "Living Tree Form",
 	"requirements": {
-		"milestones": [],
-		"skill": 48
 	},
 	"rewards": [
 		{
 			"ability": "arendeth_arborborn_Shift_Living_Tree"
 		}
 	],
-	"skill_id": "arendeth_arborborn",
+	"skill_id": "",
 	"steps": [],
 	"steps_type": 0
 }

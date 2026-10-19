@@ -1,16 +1,15 @@
 {
 	"id": "arendeth_arborborn_Shift_Tiny_Dragon",
+	"innate": true,
 	"name": "Tiny Dragon Form",
 	"requirements": {
-		"milestones": [],
-		"skill": 47
 	},
 	"rewards": [
 		{
 			"ability": "arendeth_arborborn_Shift_Tiny_Dragon"
 		}
 	],
-	"skill_id": "arendeth_arborborn",
+	"skill_id": "",
 	"steps": [],
 	"steps_type": 0
 }

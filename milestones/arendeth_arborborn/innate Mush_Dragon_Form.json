@@ -1,16 +1,15 @@
 {
 	"id": "arendeth_arborborn_Shift_Mush_Dragon",
+	"innate": true,
 	"name": "Mush Dragon Form",
 	"requirements": {
-		"milestones": [],
-		"skill": 50
 	},
 	"rewards": [
 		{
 			"ability": "arendeth_arborborn_Shift_Mush_Dragon"
 		}
 	],
-	"skill_id": "arendeth_arborborn",
+	"skill_id": "",
 	"steps": [],
 	"steps_type": 0
 }
