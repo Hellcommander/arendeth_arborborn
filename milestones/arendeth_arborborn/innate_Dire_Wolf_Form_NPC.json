@@ -1,0 +1,14 @@
+{
+	"id": "arendeth_arborborn_Shift_Dire_Wolf_NPC",
+	"innate": true,
+	"name": "Dire Wolf Form NPC",
+	"requirements": {},
+	"rewards": [
+		{
+			"ability": "arendeth_arborborn_Shift_Dire_Wolf_NPC"
+		}
+	],
+	"skill_id": "",
+	"steps": [],
+	"steps_type": 0
+}

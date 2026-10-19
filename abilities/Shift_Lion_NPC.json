@@ -1,0 +1,23 @@
+{
+	"animation": "34",
+	"cast_time": 1.0,
+	"cooldown": 35.0,
+	"cost": {
+		"health": 0,
+		"stamina": 8
+	},
+	"description": "Take the shape of a lion: a roaring brawler that breaks morale. Lasts 40 turns. Unlocks at Arborborn level 25. Requires the Arborborn body.",
+	"duration": 40.0,
+	"effects": {
+		"attack_speed": -0.05
+	},
+	"effects_keys": {
+		"transform": "arendeth_arborborn_Form_Lion_NPC"
+	},
+	"id": "arendeth_arborborn_Shift_Lion_NPC",
+	"image": 25,
+	"name": "Lion Form",
+	"range": 0,
+	"skill": "arendeth_arborborn",
+	"target": "actor"
+}

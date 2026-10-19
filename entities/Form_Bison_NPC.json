@@ -1,0 +1,163 @@
+{
+	"ability_user": [
+		"arendeth_arborborn_Stampede",
+		"arendeth_arborborn_rut",
+		"arendeth_arborborn_Piercing_Charge",
+		"arendeth_arborborn_Return_To_Wood"
+	],
+	"armor": {
+		"acid": 0,
+		"death": 0,
+		"electricity": 0,
+		"fire": 0,
+		"frost": 5,
+		"holy": 0,
+		"parry": 0,
+		"physical": 2,
+		"poison": 2,
+		"thorns": 0
+	},
+	"artificial_intelligence": {
+		"allies": [
+			"5"
+		],
+		"allow_production": [],
+		"behaviors": [],
+		"enemies": []
+	},
+	"components": [
+		"ability_user",
+		"actor",
+		"armor",
+		"artificial_intelligence",
+		"collidable",
+		"dialogues",
+		"equipment",
+		"experience_gainer",
+		"fighter",
+		"glyph",
+		"health",
+		"minimap_pixel",
+		"moveable",
+		"name",
+		"position_2d",
+		"sight",
+		"stamina",
+		"statistics",
+		"tags",
+		"weapon"
+	],
+	"corpse": "706",
+	"description": "This massive animal usually remains docile if not threatened.",
+	"dialogues": [],
+	"equipment": {
+		"disabled_slots": [
+			0,
+			1,
+			2,
+			3,
+			4,
+			5,
+			6,
+			7,
+			8,
+			9,
+			10,
+			11,
+			12,
+			13,
+			14,
+			15,
+			16,
+			17
+		]
+	},
+	"experience_gainer": {
+		"exp": 0,
+		"level": 10
+	},
+	"fighter": {
+		"attackNames": [
+			"Bite",
+			"Horns"
+		]
+	},
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 21
+			}
+		],
+		"random_frame_start": false
+	},
+	"health": 600,
+	"id": "arendeth_arborborn_Form_Bison",
+	"minimap_pixel": [
+		139,
+		95,
+		64
+	],
+	"moveable": {
+		"speed": 1.2000000476837158
+	},
+	"name": "Bison Form",
+	"sight": {
+		"ignore_infra_penalty": false,
+		"infravision": false,
+		"range": 9,
+		"threesixty": false
+	},
+	"stamina": {
+		"fatigue": 100,
+		"stamina": 100,
+		"stamina_regen": 3.0
+	},
+	"statistics": {
+		"dexterity": [
+			22,
+			25
+		],
+		"endurance": [
+			34,
+			37
+		],
+		"intelligence": [
+			30,
+			33
+		],
+		"strength": [
+			36,
+			39
+		],
+		"willpower": [
+			22,
+			25
+		]
+	},
+	"tags": [
+		"2",
+		"9"
+	],
+	"weapon": {
+		"critical_hit": 0.0,
+		"hands": 1,
+		"hit_bonus": 1,
+		"parry_bonus": 0,
+		"range": 1,
+		"type": 1,
+		"attack_speed": 1.0,
+		"damage": [
+			{
+				"dmg_max": 14,
+				"dmg_min": 6,
+				"dmg_type": "physical"
+			}
+		]
+	}
+}

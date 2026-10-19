@@ -9,7 +9,6 @@
 		"arendeth_arborborn_Shift_Elephant",
 		"arendeth_arborborn_Shift_Tiny_Dragon",
 		"arendeth_arborborn_Shift_Giant_Spider",
-		"arendeth_arborborn_Shift_Giant_Tortoise",
 		"arendeth_arborborn_Shift_Mush_Dragon",
 		"arendeth_arborborn_Shift_Living_Tree"
 	],
@@ -49,8 +48,10 @@
 		"minimap_pixel",
 		"moveable",
 		"name",
+		"persona",
 		"position_2d",
 		"sight",
+		"skills",
 		"stamina",
 		"statistics",
 		"tags"
@@ -85,7 +86,7 @@
 	"humanoid": {
 		"race": ""
 	},
-	"id": "arendeth_arborborn_Arborborn_Body_Child",
+	"id": "arendeth_arborborn_Arborborn_Recruit",
 	"minimap_pixel": [
 		115,
 		150,
@@ -94,12 +95,29 @@
 	"moveable": {
 		"speed": 1.0
 	},
-	"name": "Arborborn Child",
+	"name": "Arborborn Recruit",
+	"persona": {
+		"occupation": "Recruit"
+	},
 	"sight": {
 		"ignore_infra_penalty": false,
 		"infravision": false,
 		"range": 10,
 		"threesixty": false
+	},
+	"skills": {
+		"milestones": [
+			"arendeth_arborborn_barbed_tips",
+			"arendeth_arborborn_rootwarden",
+			"arendeth_arborborn_sap_blood",
+			"arendeth_arborborn_verdant_mending",
+			"arendeth_arborborn_wide_bloom",
+			"core_2_as_expected"
+		],
+		"skills": [
+			"arendeth_arborborn",
+			"core_2_protection"
+		]
 	},
 	"stamina": {
 		"fatigue": 100,

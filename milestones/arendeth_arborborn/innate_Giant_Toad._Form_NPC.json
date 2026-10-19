@@ -1,0 +1,14 @@
+{
+	"id": "arendeth_arborborn_Shift_Giant_Toad_NPC",
+	"innate": true,
+	"name": "Giant Toad Form NPC",
+	"requirements": {},
+	"rewards": [
+		{
+			"ability": "arendeth_arborborn_Shift_Giant_Toad_NPC"
+		}
+	],
+	"skill_id": "",
+	"steps": [],
+	"steps_type": 0
+}

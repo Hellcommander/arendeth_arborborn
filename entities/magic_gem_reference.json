@@ -1,0 +1,15 @@
+{
+	"components": [
+		"name",
+		"resource"
+	],
+	"description": "",
+	"id": "arendeth_arborborn_magic_gem_reference",
+	"name": "magic gem reference",
+	"resource": {
+		"affix": "",
+		"magic_ingredient": 0,
+		"quality": 0,
+		"type": 7
+	}
+}

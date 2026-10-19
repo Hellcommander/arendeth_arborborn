@@ -1,0 +1,14 @@
+{
+	"id": "arendeth_arborborn_Shift_Leopard_NPC",
+	"innate": true,
+	"name": "Leopard Form NPC",
+	"requirements": {},
+	"rewards": [
+		{
+			"amplifier": "arendeth_arborborn_Shift_Leopard_NPC"
+		}
+	],
+	"skill_id": "",
+	"steps": [],
+	"steps_type": 0
+}

@@ -1,0 +1,16 @@
+{
+	"id": "arendeth_arborborn_Summon_Pools_of_Poison",
+	"name": "Summon Pools of Poison",
+	"requirements": {
+		"milestones": [],
+		"skill": 11
+	},
+	"rewards": [
+		{
+			"ability": "arendeth_arborborn_Summon_Pools_of_Poison"
+		}
+	],
+	"skill_id": "arendeth_arborborn",
+	"steps": [],
+	"steps_type": 0
+}

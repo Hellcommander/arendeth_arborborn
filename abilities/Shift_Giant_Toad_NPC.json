@@ -1,0 +1,21 @@
+{
+	"animation": "34",
+	"cast_time": 1.0,
+	"cooldown": 30.0,
+	"cost": {
+		"health": 0,
+		"stamina": 6
+	},
+	"description": "Take the shape of a giant toad: slimy, thorny and fond of dragging things closer. Lasts 40 turns. Requires the Arborborn body.",
+	"duration": 40.0,
+	"effects": {},
+	"effects_keys": {
+		"transform": "arendeth_arborborn_Form_Giant_Toad_NPC"
+	},
+	"id": "arendeth_arborborn_Shift_Giant_Toad_NPC",
+	"image": 22,
+	"name": "Giant Toad Form",
+	"range": 0,
+	"skill": "arendeth_arborborn",
+	"target": "actor"
+}

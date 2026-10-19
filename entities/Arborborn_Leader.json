@@ -9,7 +9,6 @@
 		"arendeth_arborborn_Shift_Elephant",
 		"arendeth_arborborn_Shift_Tiny_Dragon",
 		"arendeth_arborborn_Shift_Giant_Spider",
-		"arendeth_arborborn_Shift_Giant_Turtle",
 		"arendeth_arborborn_Shift_Mush_Dragon",
 		"arendeth_arborborn_Shift_Living_Tree"
 	],
@@ -87,7 +86,7 @@
 	"humanoid": {
 		"race": ""
 	},
-	"id": "arendeth_arborborn_Arborborn_Body",
+	"id": "arendeth_arborborn_Arborborn_Leader",
 	"minimap_pixel": [
 		115,
 		150,
@@ -96,9 +95,9 @@
 	"moveable": {
 		"speed": 1.0
 	},
-	"name": "Arborborn",
+	"name": "Arborborn Leader",
 	"persona": {
-		"occupation": "None"
+		"occupation": "Leader"
 	},
 	"sight": {
 		"ignore_infra_penalty": false,
@@ -107,62 +106,27 @@
 		"threesixty": false
 	},
 	"skills": {
-		"max_skill": 20,
 		"milestones": [
-			"arendeth_arborborn_Heartwood_Altar_recipe",
-			"arendeth_arborborn_Rebirth_Shift",
-			"arendeth_arborborn_ancient_bark",
 			"arendeth_arborborn_apex_predator",
-			"arendeth_arborborn_barbed_tips",
-			"arendeth_arborborn_bark_slam",
-			"arendeth_arborborn_briar_lash",
-			"arendeth_arborborn_canopy_ward",
-			"arendeth_arborborn_cinder_burst",
-			"arendeth_arborborn_druids_focus",
-			"arendeth_arborborn_feral_instinct",
-			"arendeth_arborborn_entangling_vines",
-			"arendeth_arborborn_form_mastery",
-			"arendeth_arborborn_heartwood_pulse",
-			"arendeth_arborborn_hibernation",
-			"arendeth_arborborn_hunters_mark",
-			"arendeth_arborborn_life_of_the_grove",
-			"arendeth_arborborn_mastery",
-			"arendeth_arborborn_mycelial_surge",
-			"arendeth_arborborn_green_thumb",
-			"arendeth_arborborn_pack_hunter",
-			"arendeth_arborborn_predators_patience",
-			"arendeth_arborborn_rending_claws",
-			"arendeth_arborborn_rooted_stamina",
-			"arendeth_arborborn_rootwarden",
-			"arendeth_arborborn_forest_stride",
-			"arendeth_arborborn_pounce_rend",
-			"arendeth_arborborn_rotting_bite",
-			"arendeth_arborborn_sap_blood",
-			"arendeth_arborborn_heartwood",
-			"arendeth_arborborn_primal_surge",
-			"arendeth_arborborn_spore_bloom",
-			"arendeth_arborborn_spore_lash_passive",
-			"arendeth_arborborn_thorn_barrage",
-			"arendeth_arborborn_thornhide",
-			"arendeth_arborborn_rut",
-			"arendeth_arborborn_sporefall_roar",
-			"arendeth_arborborn_thornlash",
-			"arendeth_arborborn_verdant_apex",
-			"arendeth_arborborn_sap_coating",
-			"arendeth_arborborn_toxic_skin",
-			"arendeth_arborborn_verdant_fury",
-			"arendeth_arborborn_wild_growth",
-			"arendeth_arborborn_spore_cloud",
-			"arendeth_arborborn_venom_fangs",
-			"arendeth_arborborn_wild_reflexes",
-			"arendeth_arborborn_heavy_roots",
 			"arendeth_arborborn_verdant_mending",
-			"arendeth_arborborn_thorn_mantle",
-			"arendeth_arborborn_wide_bloom"
+			"arendeth_arborborn_barbed_tips",
+			"core_2_ignore_party",
+			"arendeth_arborborn_wide_bloom",
+			"arendeth_arborborn_green_thumb",
+			"arendeth_arborborn_sap_blood",
+			"arendeth_arborborn_rootwarden",
+			"core_2_challenge",
+			"core_2_iron_will",
+			"core_2_rapid_retreat",
+			"core_2_shield_wall",
+			"core_2_as_expected",
+			"core_2_heavy_duty",
+			"core_2_first_aid"
 		],
-		"min_skill": 20,
 		"skills": [
-			"arendeth_arborborn"
+			"arendeth_arborborn",
+			"core_2_leadership",
+			"core_2_protection"
 		]
 	},
 	"stamina": {

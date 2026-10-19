@@ -1,0 +1,9 @@
+{
+  "id": "Arborborn_Settlement",
+  "image": -1,
+  "name": "Arborborn Settlement Center",
+  "occupation": "-1",
+  "produces": [],
+  "race": "arendeth_arborborn_Arborborn",
+  "workers": [0, 0]
+}

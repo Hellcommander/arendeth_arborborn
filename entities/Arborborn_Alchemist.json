@@ -1,0 +1,172 @@
+{
+	"ability_user": [
+		"arendeth_arborborn_Heartwood_Seed_Grenade",
+		"arendeth_arborborn_Shift_Bison_NPC",
+		"arendeth_arborborn_Shift_Crocodile_NPC",
+		"arendeth_arborborn_Shift_Dire_Wolf_NPC",
+		"arendeth_arborborn_Shift_Elephant_NPC",
+		"arendeth_arborborn_Shift_Giant_Toad_NPC",
+		"arendeth_arborborn_Shift_Leopard_NPC",
+		"arendeth_arborborn_Shift_Lion_NPC"
+	],
+	"armor": {
+		"acid": 0,
+		"death": 0,
+		"electricity": -2,
+		"fire": -8,
+		"frost": 0,
+		"holy": 0,
+		"parry": 0,
+		"physical": 8,
+		"poison": 10,
+		"thorns": 2
+	},
+	"artificial_intelligence": {
+		"allies": [],
+		"allow_production": [],
+		"behaviors": [],
+		"enemies": []
+	},
+	"components": [
+		"ability_user",
+		"actor",
+		"armor",
+		"artificial_intelligence",
+		"collidable",
+		"dialogues",
+		"equipment",
+		"experience_gainer",
+		"fighter",
+		"glyph",
+		"health",
+		"humanoid",
+		"minimap_pixel",
+		"moveable",
+		"name",
+		"persona",
+		"position_2d",
+		"sight",
+		"skills",
+		"stamina",
+		"statistics",
+		"tags"
+	],
+	"corpse": "2101",
+	"description": "A person of living wood, bark-skinned and rooted to the soil by memory alone.",
+	"dialogues": [
+		"298",
+		"299"
+	],
+	"experience_gainer": {
+		"exp": 1,
+		"level": 20
+	},
+	"fighter": {
+		"attackNames": [
+			"Branch Slam"
+		]
+	},
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 0
+			}
+		],
+		"random_frame_start": false
+	},
+	"health": 150,
+	"humanoid": {
+		"race": ""
+	},
+	"id": "arendeth_arborborn_Arborborn",
+	"minimap_pixel": [
+		115,
+		150,
+		90
+	],
+	"moveable": {
+		"speed": 1.0
+	},
+	"name": "Arborborn Alchemist",
+	"persona": {
+		"occupation": "Alchemist"
+	},
+	"sight": {
+		"ignore_infra_penalty": false,
+		"infravision": false,
+		"range": 10,
+		"threesixty": false
+	},
+	"skills": {
+		"max_skill": 20,
+		"milestones": [
+			"core_2_lucky_crafting",
+			"arendeth_arborborn_Reanimated_Glowing_Orb",
+			"arendeth_arborborn_entangling_vines",
+			"core_2_alchemic_fire",
+			"core_2_strong_drink",
+			"core_2_lead_Ingot",
+			"core_2_smoke_bomb",
+			"core_2_haste_potion",
+			"arendeth_arborborn_sap_blood",
+			"arendeth_arborborn_life_of_the_grove",
+			"core_2_emty_vial",
+			"arendeth_arborborn_wild_growth",
+			"core_2_cleansing_potion",
+			"core_2_coral",
+			"core_2_antidote_vial",
+			"core_2_dust_bomb",
+			"core_2_carve",
+			"core_2_elm_log",
+			"core_2_ebony_log",
+			"core_2_linden_log"
+		],
+		"min_skill": 20,
+		"skills": [
+			"arendeth_arborborn",
+			"core_2_alchemy"
+		]
+	},
+	"stamina": {
+		"fatigue": 100,
+		"stamina": 100,
+		"stamina_regen": 0.0
+	},
+	"statistics": {
+		"dexterity": [
+			10,
+			14
+		],
+		"endurance": [
+			20,
+			26
+		],
+		"health_regen": 0.5,
+		"health_regen_tick": 10.0,
+		"hearing": 8,
+		"intelligence": [
+			20,
+			26
+		],
+		"magic_power": 10,
+		"sneaking": 6,
+		"strength": [
+			20,
+			26
+		],
+		"willpower": [
+			20,
+			26
+		]
+	},
+	"tags": [
+		"9",
+		"3"
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"id": "arendeth_arborborn_Shift_Bison",
+	"innate": true,
+	"name": "Bison Form",
+	"requirements": {
+	},
+	"rewards": [
+		{
+			"ability": "arendeth_arborborn_Shift_Bison"
+		}
+	],
+	"skill_id": "",
+	"steps": [],
+	"steps_type": 0
+}

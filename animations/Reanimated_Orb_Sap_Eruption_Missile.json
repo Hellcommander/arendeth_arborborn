@@ -1,0 +1,52 @@
+{
+	"animation": "core_2_Sap_Eruption_Impact",
+	"animation_origin_self": false,
+	"blocking": false,
+	"camera_shake": {
+		"bounces": 0,
+		"duration": 0.0,
+		"power": 0.0,
+		"type": 1
+	},
+	"chain_particles": true,
+	"id": "arendeth_arborborn_Reanimated_Orb_Sap_Eruption_Missile",
+	"ignore_roof": false,
+	"name": "Reanimated Orb Sap Eruption Missile",
+	"particles": [
+		{
+			"color": [
+				[
+					162,
+					232,
+					200,
+					145
+				]
+			],
+			"flags": 4194432,
+			"life": 50.0,
+			"tile_id": 1173,
+			"velocity": 30.0
+		},
+		{
+			"color": [
+				[
+					255,
+					255,
+					140,
+					255
+				]
+			],
+			"elevation": 3,
+			"flags": 4719744,
+			"life": 50.0,
+			"repeat": 2,
+			"repeat_delay": 3.0,
+			"tile_id": 1174,
+			"velocity": 60.0
+		}
+	],
+	"sound": {
+		"id": "140",
+		"volume": 100
+	}
+}

@@ -1,0 +1,15 @@
+{
+	"id": "arendeth_arborborn_Sapling_Orb_Blast",
+	"innate": true,
+	"name": "Sapling Orb Blast",
+	"requirements": {
+	},
+	"rewards": [
+		{
+			"ability": "arendeth_arborborn_Sapling_Orb_Blast"
+		}
+	],
+	"skill_id": "",
+	"steps": [],
+	"steps_type": 0
+}

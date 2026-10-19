@@ -1,0 +1,143 @@
+{
+	"armor": {
+		"acid": 0,
+		"death": 0,
+		"electricity": 0,
+		"fire": 0,
+		"frost": 0,
+		"holy": 0,
+		"parry": 1,
+		"physical": 0,
+		"poison": 0,
+		"thorns": 0
+	},
+	"components": [
+		"armor",
+		"craftable",
+		"glyph",
+		"item",
+		"light_source",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"skills",
+		"tags",
+		"value",
+		"weapon",
+		"weight"
+	],
+	"craftable": {
+		"backgrounds": [],
+		"biomes": [],
+		"magic_slots": 4,
+		"resource_types": [
+			{
+				"amount": 1,
+				"id": 12
+			},
+			{
+				"amount": 3,
+				"id": 7
+			}
+		],
+		"resources": [
+			{
+				"amount": 4,
+				"id": "core_2_Spring_Crystal"
+			},
+			{
+				"amount": 1,
+				"id": "2446"
+			},
+			{
+				"amount": 1,
+				"id": "2518"
+			}
+		],
+		"time": 75,
+		"tools": [
+			15
+		]
+	},
+	"description": "Floating sphere of soft green light, suspended in midair, resembling frozen will-o'-wisp.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					146
+				],
+				"delay": 200,
+				"index": 2892
+			},
+			{
+				"color": [
+					255,
+					255,
+					102
+				],
+				"delay": 200,
+				"index": 2893
+			},
+			{
+				"color": [
+					255,
+					255,
+					120
+				],
+				"delay": 200,
+				"index": 2894
+			}
+		],
+		"random_frame_start": true
+	},
+	"id": "arendeth_arborborn_Reanimated_Glowing_Orb_of_the_Arborborn",
+	"item": {
+		"image": 0,
+		"type": 23
+	},
+	"light_source": {
+		"finish": -1,
+		"range": 8
+	},
+	"minimap_pixel": [
+		150,
+		150,
+		150
+	],
+	"name": "Reanimated Glowing Orb of the Arborborn",
+	"skills": {
+		"max_skill": 20,
+		"milestones": [
+			"arendeth_arborborn_sap_blood",
+			"arendeth_arborborn_Sapling_Orb_Blast"
+		],
+		"min_skill": 20,
+		"skills": [
+			"arendeth_arborborn"
+		]
+	},
+	"tags": [
+		"3"
+	],
+	"value": 9000,
+	"weapon": {
+		"attack_animation": "arendeth_arborborn_Reanimated_Orb_Sap_Eruption_Missile",
+		"attack_speed": 1.0,
+		"critical_hit": 0.07000000029802322,
+		"damage": [
+			{
+				"dmg_max": 6,
+				"dmg_min": 3,
+				"dmg_type": "poison"
+			}
+		],
+		"hands": 1,
+		"hit_bonus": 1,
+		"parry_bonus": 1,
+		"range": 9,
+		"type": 10
+	},
+	"weight": 0.5
+}

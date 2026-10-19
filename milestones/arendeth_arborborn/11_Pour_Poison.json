@@ -1,0 +1,15 @@
+{
+	"id": "arendeth_pour_poison",
+	"name": "Pour Poison",
+	"requirements": {
+		"skill": 11
+	},
+	"rewards": [
+		{
+			"production_action": "arendeth_pour_poison"
+		}
+	],
+	"skill_id": "arendeth_arborborn",
+	"steps": [],
+	"steps_type": 0
+}

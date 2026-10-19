@@ -1,0 +1,60 @@
+{
+	"components": [
+		"glyph",
+		"liquid_source",
+		"minimap_pixel",
+		"name",
+		"position_2d",
+		"producer"
+	],
+	"description": "A pool of poisonous liquid.",
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 2754
+			},
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 86400000,
+				"index": 2755
+			}
+		],
+		"random_frame_start": true
+	},
+	"id": "arendeth_arborborn_Pool_of_Poison",
+	"liquid_source": {
+		"limit": 100,
+		"type": 6
+	},
+	"minimap_pixel": [
+		43,
+		255,
+		0
+	],
+	"name": "Pool of Poison",
+	"producer": {
+		"products": {
+			"19": [
+				{
+					"amount": [
+						0,
+						0
+					],
+					"id": "",
+					"percent_chance": 100
+				}
+			]
+		},
+		"time": 0
+	}
+}

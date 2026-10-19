@@ -1,0 +1,170 @@
+{
+	"ability_user": [
+		"arendeth_arborborn_Extract_Heartwood_Seed",
+		"arendeth_arborborn_Shift_Bison_NPC",
+		"arendeth_arborborn_Shift_Crocodile_NPC",
+		"arendeth_arborborn_Shift_Dire_Wolf_NPC",
+		"arendeth_arborborn_Shift_Elephant_NPC",
+		"arendeth_arborborn_Shift_Giant_Toad_NPC",
+		"arendeth_arborborn_Shift_Lion_NPC"
+	],
+	"armor": {
+		"acid": 0,
+		"death": 0,
+		"electricity": -2,
+		"fire": -8,
+		"frost": 0,
+		"holy": 0,
+		"parry": 0,
+		"physical": 8,
+		"poison": 10,
+		"thorns": 2
+	},
+	"artificial_intelligence": {
+		"allies": [],
+		"allow_production": [],
+		"behaviors": [],
+		"enemies": []
+	},
+	"components": [
+		"ability_user",
+		"actor",
+		"armor",
+		"artificial_intelligence",
+		"collidable",
+		"dialogues",
+		"equipment",
+		"experience_gainer",
+		"fighter",
+		"glyph",
+		"health",
+		"humanoid",
+		"minimap_pixel",
+		"moveable",
+		"name",
+		"persona",
+		"position_2d",
+		"sight",
+		"skills",
+		"stamina",
+		"statistics",
+		"tags"
+	],
+	"corpse": "2101",
+	"description": "A person of living wood, bark-skinned and rooted to the soil by memory alone.",
+	"dialogues": [
+		"298",
+		"299"
+	],
+	"experience_gainer": {
+		"exp": 1,
+		"level": 20
+	},
+	"fighter": {
+		"attackNames": [
+			"Branch Slam"
+		]
+	},
+	"glyph": {
+		"frames": [
+			{
+				"color": [
+					255,
+					255,
+					255
+				],
+				"delay": 0,
+				"index": 0
+			}
+		],
+		"random_frame_start": false
+	},
+	"health": 150,
+	"humanoid": {
+		"race": ""
+	},
+	"id": "arendeth_arborborn_Arborborn_Adventurer",
+	"minimap_pixel": [
+		115,
+		150,
+		90
+	],
+	"moveable": {
+		"speed": 1.0
+	},
+	"name": "Arborborn Adventurer",
+	"persona": {
+		"occupation": "Adventurer"
+	},
+	"sight": {
+		"ignore_infra_penalty": false,
+		"infravision": false,
+		"range": 10,
+		"threesixty": false
+	},
+	"skills": {
+		"milestones": [
+			"arendeth_arborborn_Lions_Roar",
+			"arendeth_arborborn_Piercing_Charge",
+			"arendeth_arborborn_briar_lash",
+			"arendeth_arborborn_entangling_vines",
+			"core_2_came_prepared",
+			"core_2_carry_capacity",
+			"core_2_crystal_staff",
+			"core_2_nice_day_for_fishin",
+			"core_2_witch_staff",
+			"core_2_mithril_ingot",
+			"core_2_attack_barrage",
+			"core_2_chopping",
+			"arendeth_arborborn_thornlash",
+			"core_2_bronze_ingot",
+			"arendeth_arborborn_sap_coating",
+			"core_2_muscle_limit",
+			"arendeth_arborborn_bark_body",
+			"core_2_i_can_take_them",
+			"core_2_pierce_armor",
+			"core_2_juggernaut"
+		],
+		"skills": [
+			"arendeth_arborborn",
+			"core_2_adventuring",
+			"core_2_axe_fighting"
+		]
+	},
+	"stamina": {
+		"fatigue": 100,
+		"stamina": 100,
+		"stamina_regen": 0.0
+	},
+	"statistics": {
+		"dexterity": [
+			10,
+			14
+		],
+		"endurance": [
+			20,
+			26
+		],
+		"health_regen": 0.5,
+		"health_regen_tick": 10.0,
+		"hearing": 8,
+		"intelligence": [
+			20,
+			26
+		],
+		"magic_power": 10,
+		"sneaking": 6,
+		"strength": [
+			20,
+			26
+		],
+		"willpower": [
+			20,
+			26
+		]
+	},
+	"tags": [
+		"9",
+		"3"
+	]
+}
