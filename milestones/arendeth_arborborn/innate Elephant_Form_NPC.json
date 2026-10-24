@@ -1,12 +1,12 @@
 {
-	"id": "arendeth_arborborn_Shift_Elephant",
+	"id": "arendeth_arborborn_Shift_Elephant_NPC",
 	"innate": true,
 	"name": "Elephant Form",
 	"requirements": {
 	},
 	"rewards": [
 		{
-			"ability": "arendeth_arborborn_Shift_Elephant"
+			"ability": "arendeth_arborborn_Shift_Elephant_NPC"
 		}
 	],
 	"skill_id": "",

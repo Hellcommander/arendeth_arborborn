@@ -5,7 +5,7 @@
 	"requirements": {},
 	"rewards": [
 		{
-			"amplifier": "arendeth_arborborn_Shift_Leopard_NPC"
+			"ability": "arendeth_arborborn_Shift_Leopard_NPC"
 		}
 	],
 	"skill_id": "",

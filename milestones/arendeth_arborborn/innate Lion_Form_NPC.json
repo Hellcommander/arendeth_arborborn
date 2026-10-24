@@ -1,12 +1,12 @@
 {
-	"id": "arendeth_arborborn_Shift_Lion",
+	"id": "arendeth_arborborn_Shift_Lion_NPC",
 	"innate": true,
 	"name": "Lion Form",
 	"requirements": {
 	},
 	"rewards": [
 		{
-			"ability": "arendeth_arborborn_Shift_Lion"
+			"ability": "arendeth_arborborn_Shift_Lion_NPC"
 		}
 	],
 	"skill_id": "",
